@@ -160,12 +160,7 @@ er-attachments/assets/5306a351-3a3a-496c-9872-7d95d7aa026f" />
 
 ![Digital Billboard](04-screenshots/10-digital-billboard.png)
 
-**11. AI Prompt Matrix**
-<img width="896" height="1206" alt="11-ai-prompt-matrix" src="https://github.com/user-attachments/assets/3d80315f-a9c0-4a0f-9c04-9811acfefc96" />
-
-![AI Prompt Matrix](04-screenshots/11-ai-prompt-matrix.png)
-**4. Botanical Distillation**
-<img width="1024" height="1024" alt="03-maison-botanique-haute-parfumerie-brand-identity-graphic-04-botanical-distillation (1)" src="https://github.com/user-attachments/assets/a30b6636-ccf7-4cfc-a157-affe1d6847a2" />
+ue-haute-parfumerie-brand-identity-graphic-04-botanical-distillation (1)" src="https://github.com/user-attachments/assets/a30b6636-ccf7-4cfc-a157-affe1d6847a2" />
 
 ![Botanical Distillation](03-graphics/4-botanical-distillation.jpg)
 
