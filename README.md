@@ -8,6 +8,7 @@ Brand identity, logo and visual design projects by Faisal Shahzad.
 |-----|---------|--------------|-------|------|
 | 01 | Architectural Practice - Brutalist Brand Identity | Complete brand identity system for a fictional Brutalist architecture collective, shown as an interactive specimen page with emblem viewer, vector mark studio, colour system and grid inspector | Graphic Design, Brand Identity, HTML, React | [01-architectural-practice-brutalist-brand-identity.html](01-architectural-practice-brutalist-brand-identity.html) |
 | 02 | Spatial Labs - Brand Identity Studio | Parametric isometric wireframe brand identity for a spatial computing studio, with a 6-second animated loop, optical guides, camera views and brand lockup | Graphic Design, Brand Identity, Motion, Three.js, React | [02-spatial-labs-brand-identity-studio.html](02-spatial-labs-brand-identity-studio.html) |
+| 03 | Maison Botanique - Haute Parfumerie Brand Identity | Haute parfumerie brand identity with a bespoke Didone monogram, single-line jasmine contour mark, perfume flacon and letterpress stationery mockups, colour and print specs, and an interactive specimen page | Graphic Design, Brand Identity, Typography, React | [03-maison-botanique-haute-parfumerie-brand-identity.html](03-maison-botanique-haute-parfumerie-brand-identity.html) |
 
 ## Screenshots
 
@@ -84,4 +85,31 @@ Brand identity, logo and visual design projects by Faisal Shahzad.
 <img width="1320" height="1322" alt="6-perspective-50mm" src="https://github.com/user-attachments/assets/80ce0cf9-6dd6-4b8f-9c89-844cfd0862ec" />
 
 ![50mm perspective](02-screenshots/6-perspective-50mm.png)
+
+### 03 - Maison Botanique - Haute Parfumerie Brand Identity
+
+**1. Brand Identity**
+<img width="1440" height="1809" alt="1-brand-identity" src="https://github.com/user-attachments/assets/c85ee836-d326-4e74-b882-2bba5d19afef" />
+
+![Brand Identity](03-screenshots/1-brand-identity.png)
+
+**2. Monogram Atelier**
+<img width="1440" height="1385" alt="2-monogram-atelier" src="https://github.com/user-attachments/assets/f2e616f4-7b14-4547-bdc8-9e0056d517b4" />
+
+![Monogram Atelier](03-screenshots/2-monogram-atelier.png)
+
+**3. Applications & Flacon**
+<img width="1440" height="2281" alt="3-applications-flacon" src="https://github.com/user-attachments/assets/17358774-fd5e-4223-92b5-581f947713c2" />
+
+![Applications and Flacon](03-screenshots/3-applications-flacon.png)
+
+**4. Colour & Print Specs**
+<img width="1440" height="2806" alt="4-color-print-specs" src="https://github.com/user-attachments/assets/debd33c7-af6d-4f40-a430-83e2581237ed" />
+
+![Colour and Print Specs](03-screenshots/4-color-print-specs.png)
+
+**5. Olfactory Alchemy**
+<img width="1440" height="1346" alt="5-olfactory-alchemy" src="https://github.com/user-attachments/assets/5306a351-3a3a-496c-9872-7d95d7aa026f" />
+
+![Olfactory Alchemy](03-screenshots/5-olfactory-alchemy.png)
 
