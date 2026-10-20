@@ -106,22 +106,9 @@ er-attachments/assets/5306a351-3a3a-496c-9872-7d95d7aa026f" />
 **3. Letterpress Stationery**
 <img width="1024" height="1024" alt="03-maison-botanique-haute-parfumerie-brand-identity-graphic-03-letterpress-stationery (1)" src="https://github.com/user-attachments/assets/8bd22b01-199b-437d-b5b3-a55da91eee63" />
 
-![Letterpress Stationery](03-graphics/3-letterpress-stationery.jpg)
-### 04 - Chroma Kinetic - Avant-Garde Liquid Chrome Identity Studio
+![Letterpress Stationery](03-graphics/3-letterpress-stationery.jpg
 
-| No. | Name |
-|-----|------|
-| 1 | Genesis (0.0s) |
-| 2 | Convergence (1.8s) |
-| 3 | Nucleation (3.5s) |
-| 4 | Lockup Snap (4.8s) |
-| 5 | Master Hold (6.0s) |
-| 6 | Brand Identity |
-| 7 | Editorial Poster |
-| 8 | Luxury Stationery |
-| 9 | Mobile Splash |
-| 10 | Digital Billboard |
-| 11 | AI Prompt Matrix |
+### 04 - Chroma Kinetic - Avant-Garde Liquid Chrome Identity Studio
 
 **1. Genesis (0.0s)**
 <img width="1440" height="900" alt="1-genesis" src="https://github.com/user-attachments/assets/fbe2b701-d011-4820-8fef-fb98046f034a" />
