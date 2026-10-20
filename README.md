@@ -168,3 +168,4 @@ er-attachments/assets/5306a351-3a3a-496c-9872-7d95d7aa026f" />
 <img width="1024" height="1024" alt="03-maison-botanique-haute-parfumerie-brand-identity-graphic-04-botanical-distillation (1)" src="https://github.com/user-attachments/assets/a30b6636-ccf7-4cfc-a157-affe1d6847a2" />
 
 ![Botanical Distillation](03-graphics/4-botanical-distillation.jpg)
+
