@@ -9,6 +9,7 @@ Brand identity, logo and visual design projects by Faisal Shahzad.
 | 01 | Architectural Practice - Brutalist Brand Identity | Complete brand identity system for a fictional Brutalist architecture collective, shown as an interactive specimen page with emblem viewer, vector mark studio, colour system and grid inspector | Graphic Design, Brand Identity, HTML, React | [01-architectural-practice-brutalist-brand-identity.html](01-architectural-practice-brutalist-brand-identity.html) |
 | 02 | Spatial Labs - Brand Identity Studio | Parametric isometric wireframe brand identity for a spatial computing studio, with a 6-second animated loop, optical guides, camera views and brand lockup | Graphic Design, Brand Identity, Motion, Three.js, React | [02-spatial-labs-brand-identity-studio.html](02-spatial-labs-brand-identity-studio.html) |
 | 03 | Maison Botanique - Haute Parfumerie Brand Identity | Haute parfumerie brand identity with a bespoke Didone monogram, single-line jasmine contour mark, perfume flacon and letterpress stationery mockups, colour and print specs, and an interactive specimen page | Graphic Design, Brand Identity, Typography, React | [03-maison-botanique-haute-parfumerie-brand-identity.html](03-maison-botanique-haute-parfumerie-brand-identity.html) |
+| 04 | Chroma Kinetic - Avant-Garde Liquid Chrome Identity Studio | Motion graphics and brand identity studio with molten liquid chrome 3D typography, a 6-second animated loop, golden ratio kinetic type, camera and lighting controls, and mockup systems | Graphic Design, Brand Identity, Motion, Three.js, React | [04-chroma-kinetic-avant-garde-liquid-chrome-identity-studio.html](04-chroma-kinetic-avant-garde-liquid-chrome-identity-studio.html) |
 
 ## Screenshots
 
@@ -106,7 +107,76 @@ er-attachments/assets/5306a351-3a3a-496c-9872-7d95d7aa026f" />
 <img width="1024" height="1024" alt="03-maison-botanique-haute-parfumerie-brand-identity-graphic-03-letterpress-stationery (1)" src="https://github.com/user-attachments/assets/8bd22b01-199b-437d-b5b3-a55da91eee63" />
 
 ![Letterpress Stationery](03-graphics/3-letterpress-stationery.jpg)
+### 04 - Chroma Kinetic - Avant-Garde Liquid Chrome Identity Studio
 
+| No. | Name |
+|-----|------|
+| 1 | Genesis (0.0s) |
+| 2 | Convergence (1.8s) |
+| 3 | Nucleation (3.5s) |
+| 4 | Lockup Snap (4.8s) |
+| 5 | Master Hold (6.0s) |
+| 6 | Brand Identity |
+| 7 | Editorial Poster |
+| 8 | Luxury Stationery |
+| 9 | Mobile Splash |
+| 10 | Digital Billboard |
+| 11 | AI Prompt Matrix |
+
+**1. Genesis (0.0s)**
+<img width="1440" height="900" alt="1-genesis" src="https://github.com/user-attachments/assets/fbe2b701-d011-4820-8fef-fb98046f034a" />
+
+![Genesis](04-screenshots/1-genesis.png)
+
+**2. Convergence (1.8s)**
+<img width="1440" height="900" alt="2-convergence" src="https://github.com/user-attachments/assets/6292fab0-46a1-4a68-ba6c-0770524edfe2" />
+
+![Convergence](04-screenshots/2-convergence.png)
+
+**3. Nucleation (3.5s)**
+<img width="1440" height="900" alt="3-nucleation" src="https://github.com/user-attachments/assets/22e529ee-ad3e-4b85-ac71-c696d6968c7d" />
+
+![Nucleation](04-screenshots/3-nucleation.png)
+
+**4. Lockup Snap (4.8s)**
+<img width="1440" height="900" alt="4-lockup-snap" src="https://github.com/user-attachments/assets/0f94ab6a-bb63-44d2-92fe-09e04fbc96e1" />
+
+![Lockup Snap](04-screenshots/4-lockup-snap.png)
+
+**5. Master Hold (6.0s)**
+<img width="1440" height="900" alt="5-master-hold" src="https://github.com/user-attachments/assets/10086a6d-7e6a-49d5-8a43-e1ef3b36dcd1" />
+
+![Master Hold](04-screenshots/5-master-hold.png)
+
+**6. Brand Identity**
+<img width="896" height="902" alt="6-brand-identity" src="https://github.com/user-attachments/assets/bb9f8eb7-6bb5-4291-aa99-f540157978d3" />
+
+![Brand Identity](04-screenshots/6-brand-identity.png)
+
+**7. Editorial Poster**
+<img width="1024" height="756" alt="7-editorial-poster" src="https://github.com/user-attachments/assets/04ac2d4d-3875-4d75-a7cd-be8e5069fc35" />
+
+![Editorial Poster](04-screenshots/7-editorial-poster.png)
+
+**8. Luxury Stationery**
+<img width="1024" height="608" alt="8-luxury-stationery" src="https://github.com/user-attachments/assets/036a269b-bbfd-4302-a927-49f0c9dec7b8" />
+
+![Luxury Stationery](04-screenshots/8-luxury-stationery.png)
+
+**9. Mobile Splash**
+<img width="1024" height="766" alt="9-mobile-splash" src="https://github.com/user-attachments/assets/b828f671-13c0-4da5-a564-05ebcabc6f0e" />
+
+![Mobile Splash](04-screenshots/9-mobile-splash.png)
+
+**10. Digital Billboard**
+<img width="1024" height="594" alt="10-digital-billboard" src="https://github.com/user-attachments/assets/dab4abe0-3c4c-4b67-af48-8702a68ffaf9" />
+
+![Digital Billboard](04-screenshots/10-digital-billboard.png)
+
+**11. AI Prompt Matrix**
+<img width="896" height="1206" alt="11-ai-prompt-matrix" src="https://github.com/user-attachments/assets/3d80315f-a9c0-4a0f-9c04-9811acfefc96" />
+
+![AI Prompt Matrix](04-screenshots/11-ai-prompt-matrix.png)
 **4. Botanical Distillation**
 <img width="1024" height="1024" alt="03-maison-botanique-haute-parfumerie-brand-identity-graphic-04-botanical-distillation (1)" src="https://github.com/user-attachments/assets/a30b6636-ccf7-4cfc-a157-affe1d6847a2" />
 
