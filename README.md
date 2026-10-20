@@ -52,6 +52,7 @@ Brand identity, logo and visual design projects by Faisal Shahzad.
 
 ![Architectural Seal](01-architectural-practice-brutalist-brand-identity-8-vector-architectural-seal.png)
 
+
 **9. Colour palette**
 <img width="1344" height="474" alt="01-architectural-practice-brutalist-brand-identity-9-colour-palette" src="https://github.com/user-attachments/assets/c1ab8575-7ed3-4424-996b-892a4624d030" />
 
