@@ -7,6 +7,7 @@ Brand identity, logo and visual design projects by Faisal Shahzad.
 | No. | Project | What it does | Tools | File |
 |-----|---------|--------------|-------|------|
 | 01 | Architectural Practice - Brutalist Brand Identity | Complete brand identity system for a fictional Brutalist architecture collective, shown as an interactive specimen page with emblem viewer, vector mark studio, colour system and grid inspector | Graphic Design, Brand Identity, HTML, React | [01-architectural-practice-brutalist-brand-identity.html](01-architectural-practice-brutalist-brand-identity.html) |
+| 02 | Spatial Labs - Brand Identity Studio | Parametric isometric wireframe brand identity for a spatial computing studio, with a 6-second animated loop, optical guides, camera views and brand lockup | Graphic Design, Brand Identity, Motion, Three.js, React | [02-spatial-labs-brand-identity-studio.html](02-spatial-labs-brand-identity-studio.html) |
 
 ## Screenshots
 
@@ -52,8 +53,35 @@ Brand identity, logo and visual design projects by Faisal Shahzad.
 
 ![Architectural Seal](01-architectural-practice-brutalist-brand-identity-8-vector-architectural-seal.png)
 
+### 02 - Spatial Labs - Brand Identity Studio
 
-**9. Colour palette**
-<img width="1344" height="474" alt="01-architectural-practice-brutalist-brand-identity-9-colour-palette" src="https://github.com/user-attachments/assets/c1ab8575-7ed3-4424-996b-892a4624d030" />
+**1. Tesseract (0.0s)**
+<img width="1320" height="1322" alt="1-tesseract" src="https://github.com/user-attachments/assets/c87e01c6-0558-45dd-8a82-4ce183b92252" />
 
-![Colour palette](01-architectural-practice-brutalist-brand-identity-9-colour-palette.png)
+![Tesseract](02-screenshots/1-tesseract.png)
+
+**2. Optic (1.5s)**
+<img width="1320" height="1322" alt="2-optic" src="https://github.com/user-attachments/assets/429d35d4-bb1b-4e61-985e-eddec61cf884" />
+
+![Optic](02-screenshots/2-optic.png)
+
+**3. Spatial (3.0s)**
+<img width="1320" height="1322" alt="3-spatial" src="https://github.com/user-attachments/assets/83a0fb66-e12f-4e40-b11a-353921c089f0" />
+
+![Spatial](02-screenshots/3-spatial.png)
+
+**4. Lattice (4.5s)**
+<img width="1320" height="1322" alt="4-lattice" src="https://github.com/user-attachments/assets/6c20e32f-c046-4b03-bd66-6f8c8fee6c60" />
+
+![Lattice](02-screenshots/4-lattice.png)
+
+**5. Optical construction guides**
+<img width="1320" height="1322" alt="5-optical-guides" src="https://github.com/user-attachments/assets/8150c761-d79a-43ea-b748-07ba8f4eabe4" />
+
+![Optical guides](02-screenshots/5-optical-guides.png)
+
+**6. 50mm perspective view**
+<img width="1320" height="1322" alt="6-perspective-50mm" src="https://github.com/user-attachments/assets/80ce0cf9-6dd6-4b8f-9c89-844cfd0862ec" />
+
+![50mm perspective](02-screenshots/6-perspective-50mm.png)
+
