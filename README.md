@@ -86,30 +86,28 @@ Brand identity, logo and visual design projects by Faisal Shahzad.
 
 ![50mm perspective](02-screenshots/6-perspective-50mm.png)
 
-### 03 - Maison Botanique - Haute Parfumerie Brand Identity
-
-**1. Brand Identity**
-<img width="1440" height="1809" alt="1-brand-identity" src="https://github.com/user-attachments/assets/c85ee836-d326-4e74-b882-2bba5d19afef" />
-
-![Brand Identity](03-screenshots/1-brand-identity.png)
-
-**2. Monogram Atelier**
-<img width="1440" height="1385" alt="2-monogram-atelier" src="https://github.com/user-attachments/assets/f2e616f4-7b14-4547-bdc8-9e0056d517b4" />
-
-![Monogram Atelier](03-screenshots/2-monogram-atelier.png)
-
-**3. Applications & Flacon**
-<img width="1440" height="2281" alt="3-applications-flacon" src="https://github.com/user-attachments/assets/17358774-fd5e-4223-92b5-581f947713c2" />
-
-![Applications and Flacon](03-screenshots/3-applications-flacon.png)
-
-**4. Colour & Print Specs**
-<img width="1440" height="2806" alt="4-color-print-specs" src="https://github.com/user-attachments/assets/debd33c7-af6d-4f40-a430-83e2581237ed" />
-
-![Colour and Print Specs](03-screenshots/4-color-print-specs.png)
-
-**5. Olfactory Alchemy**
-<img width="1440" height="1346" alt="5-olfactory-alchemy" src="https://github.com/user-attachments/assets/5306a351-3a3a-496c-9872-7d95d7aa026f" />
+er-attachments/assets/5306a351-3a3a-496c-9872-7d95d7aa026f" />
 
 ![Olfactory Alchemy](03-screenshots/5-olfactory-alchemy.png)
 
+### 03 - Maison Botanique - Graphic Artworks
+
+**1. Master Identity & Monogram**
+<img width="1024" height="1024" alt="03-maison-botanique-haute-parfumerie-brand-identity-graphic-01-master-identity-monogram (1)" src="https://github.com/user-attachments/assets/025ecf02-d141-4065-8a99-79e31d63273c" />
+
+![Master Identity and Monogram](03-graphics/1-master-identity-monogram.jpg)
+
+**2. Perfume Flacon & Packaging**
+<img width="1024" height="1024" alt="03-maison-botanique-haute-parfumerie-brand-identity-graphic-02-perfume-flacon-packaging (1)" src="https://github.com/user-attachments/assets/cc5f943e-4285-434b-8cc0-5ad1bc03d3af" />
+
+![Perfume Flacon and Packaging](03-graphics/2-perfume-flacon-packaging.jpg)
+
+**3. Letterpress Stationery**
+<img width="1024" height="1024" alt="03-maison-botanique-haute-parfumerie-brand-identity-graphic-03-letterpress-stationery (1)" src="https://github.com/user-attachments/assets/8bd22b01-199b-437d-b5b3-a55da91eee63" />
+
+![Letterpress Stationery](03-graphics/3-letterpress-stationery.jpg)
+
+**4. Botanical Distillation**
+<img width="1024" height="1024" alt="03-maison-botanique-haute-parfumerie-brand-identity-graphic-04-botanical-distillation (1)" src="https://github.com/user-attachments/assets/a30b6636-ccf7-4cfc-a157-affe1d6847a2" />
+
+![Botanical Distillation](03-graphics/4-botanical-distillation.jpg)
