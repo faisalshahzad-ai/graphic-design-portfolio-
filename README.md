@@ -216,34 +216,31 @@ ue-haute-parfumerie-brand-identity-graphic-04-botanical-distillation (1)" src="h
 
 ### 05 · Banque Privée 1924: Brand Identity & Heraldic Crest System
 
-![05 Banque Privée 1924](05-banque-privee-1924-brand-identity/05-banque-privee-1924-01-cover.png)
+**Graphic Design | Brand Identity | Concept project**
 
-**Category:** Graphic Design | Brand Identity
-**Type:** Concept project
+A brand identity for a centennial private banking sanctuary, built around a deconstructed heraldic crest on a 12-column Swiss grid.
 
-A brand identity for a centennial private banking sanctuary, designed to look established, discreet and trustworthy. The system is built around a deconstructed heraldic crest (a geometric lion and a Swiss key) on a 12-column Swiss grid.
+#### 1. Cover
+![05 Cover](05-banque-privee-1924-brand-identity/05-banque-privee-1924-01-cover.png)
+Project title and the main heraldic crest: a geometric lion and a Swiss key, built on the golden ratio.
+<img width="2880" height="1520" alt="05-banque-privee-1924-01-cover" src="https://github.com/user-attachments/assets/38a84997-3e0f-470d-89b8-003159cbf35d" />
 
-**1. Heraldic Crest**
-<img width="2880" height="1520" alt="05-banque-privee-1924-01-cover" src="https://github.com/user-attachments/assets/6eba7f5e-0cab-487a-a079-5681127d56b5" />
+#### 2. Crest Variants
+![05 Crest Variants](05-banque-privee-1924-brand-identity/05-banque-privee-1924-02-crest-variants.png)
+Four versions of the crest: silver on navy, alabaster on navy, gilt on navy and navy on alabaster.
+<img width="2288" height="1066" alt="05-banque-privee-1924-02-crest-variants" src="https://github.com/user-attachments/assets/f31429be-5a18-43e9-a243-0f8bd22b8a3a" />
 
-Vector crest with crown, key, geometric lion and shield, built on the golden ratio (1 : 1.618).
+#### 3. Colour Palette
+![05 Colour Palette](05-banque-privee-1924-brand-identity/05-banque-privee-1924-03-colour-palette.png)
+Oxford Navy, Warm Alabaster, Matte Silver Deboss, Obsidian Shadow and Centennial Gilt, with HEX, RGB, CMYK and Pantone values.
+<img width="2288" height="1064" alt="05-banque-privee-1924-03-colour-palette" src="https://github.com/user-attachments/assets/c86d1b60-1fd9-4e99-b651-6bd17daf0b90" />
 
-![Crest variants](05-banque-privee-1924-brand-identity/05-banque-privee-1924-02-crest-variants.png)
+#### 4. Seal & Stationery
+![05 Seal and Stationery](05-banque-privee-1924-brand-identity/05-banque-privee-1924-04-seal-stationery.png)
+Debossed seal and stationery mockups showing the identity on real printed materials.
+<img width="2288" height="1198" alt="05-banque-privee-1924-04-seal-stationery" src="https://github.com/user-attachments/assets/fafc7216-ae15-45ea-a96d-6ae2f2022487" />
 
-**2. Crest Variants**
-<img width="2288" height="1066" alt="05-banque-privee-1924-02-crest-variants" src="https://github.com/user-attachments/assets/4660024a-f0e6-40a7-94f6-dcddf800c48d" />
+**Tech stack:** React 19, TypeScript, Vite, Tailwind CSS 4
+**Files:** [Project folder](05-banque-privee-1924-brand-identity) | [HTML specimen page](05-banque-privee-1924-brand-identity/05-banque-privee-1924-brand-identity.html)
 
-Four versions: silver on navy, alabaster on navy, gilt on navy and navy on alabaster.
-
-**3. Colour System**
-<img width="2288" height="1064" alt="05-banque-privee-1924-03-colour-palette" src="https://github.com/user-attachments/assets/39740117-ffe4-4836-afe8-1fba74d6ea5b" />
-
-Oxford Navy `#0B192C`, Warm Alabaster `#F7F3ED`, Matte Silver Deboss `#CBD3DC`, Obsidian Shadow `#050E1A` and Centennial Gilt `#C5A869`, with RGB, CMYK and Pantone values.
-
-![Colour palette](05-banque-privee-1924-brand-identity/05-banque-privee-1924-03-colour-palette.png)
-
-**4. Typography**
-<img width="2288" height="1198" alt="05-banque-privee-1924-04-seal-stationery" src="https://github.com/user-attachments/assets/e242a26b-9d5e-4b92-a4dd-929df6e88970" />
-
-Cinzel for the primary lockup, Cormorant Garamond for correspondence, Plus Jakarta Sans for data and microprint.
-
+---
