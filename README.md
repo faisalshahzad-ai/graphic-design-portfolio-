@@ -11,6 +11,7 @@ Brand identity, logo and visual design projects by Faisal Shahzad.
 | 03 | Maison Botanique - Haute Parfumerie Brand Identity | Haute parfumerie brand identity with a bespoke Didone monogram, single-line jasmine contour mark, perfume flacon and letterpress stationery mockups, colour and print specs, and an interactive specimen page | Graphic Design, Brand Identity, Typography, React | [03-maison-botanique-haute-parfumerie-brand-identity.html](03-maison-botanique-haute-parfumerie-brand-identity.html) |
 | 04 | Chroma Kinetic - Avant-Garde Liquid Chrome Identity Studio | Motion graphics and brand identity studio with molten liquid chrome 3D typography, a 6-second animated loop, golden ratio kinetic type, camera and lighting controls, and mockup systems | Graphic Design, Brand Identity, Motion, Three.js, React | [04-chroma-kinetic-avant-garde-liquid-chrome-identity-studio.html](04-chroma-kinetic-avant-garde-liquid-chrome-identity-studio.html) |
 | 05 | Banque Privée 1924 - Brand Identity & Heraldic Crest System | Brand identity for a centennial private banking sanctuary with a deconstructed heraldic crest on a 12-column Swiss grid, four crest variants, a five-colour system with Pantone values, three-typeface rules, and debossed seal and stationery mockups | Graphic Design, Brand Identity, Heraldic Crest, React, TypeScript | [05-banque-privee-1924-brand-identity.html](05-banque-privee-1924-brand-identity.html) |
+| 06 | KINETIC Autonomous Systems - Brand Identity & Vector Engine | Brand identity for an autonomous humanoid robotics foundry with a precision logo mark built on a golden ratio vector path blueprint, a colour and surface matrix, brand guidelines sheet, lockup customizer, vector export, and in-situ showcase | Graphic Design, Brand Identity, Vector Logo, React, TypeScript | [06-kinetic-autonomous-systems.html](06-kinetic-autonomous-systems.html) |
 
 ## Screenshots
 
@@ -179,3 +180,24 @@ ue-haute-parfumerie-brand-identity-graphic-04-botanical-distillation (1)" src="h
 ![05 Seal and Stationery](05-banque-privee-1924-brand-identity/05-banque-privee-1924-04-seal-stationery.png)
 <img width="2288" height="1198" alt="05-banque-privee-1924-04-seal-stationery" src="https://github.com/user-attachments/assets/daa9ff9a-2e71-43a6-8c1d-780bceb7b3a6" />
 
+### 06 KINETIC Autonomous Systems - Brand Identity & Vector Engine
+
+### 06 KINETIC Autonomous Systems - Brand Identity & Vector Engine
+
+1. ![1](06-kinetic-01-master-emblem.png)<img width="1440" height="990" alt="1" src="https://github.com/user-attachments/assets/001ab21a-04b1-4b27-932d-4414bf9d951b" />
+
+2. ![2](06-kinetic-02-brand-lockup-typography.png)<img width="1440" height="919" alt="2" src="https://github.com/user-attachments/assets/131d6d57-e4da-4ca1-b69c-19351ba04bc1" />
+
+3. ![3](06-kinetic-03-colour-surface-system.png)<img width="1440" height="1005" alt="3" src="https://github.com/user-attachments/assets/285c13b3-4113-4d08-81d0-90d9d341fc23" />
+
+4. ![4](06-kinetic-04-in-situ-showcase.png)<img width="1440" height="1034" alt="4" src="https://github.com/user-attachments/assets/be993901-bea3-442f-ae51-725fd6b990e7" />
+
+5. ![5](06-kinetic-05-ai-prompt-suite.png)<img width="1440" height="801" alt="5" src="https://github.com/user-attachments/assets/aba2abb7-5b53-4f88-89d4-f9e0cf266027" />
+
+6. ![6](06-kinetic-06-brand-guidelines-sheet.png)<img width="1440" height="678" alt="6" src="https://github.com/user-attachments/assets/18fe8486-d753-4f30-a994-1896b656e277" />
+
+7. ![7](06-kinetic-01-foundry-cleanroom-hero.png)<img width="1376" height="768" alt="7" src="https://github.com/user-attachments/assets/e1de43f8-8afa-4758-be95-6d336e38ba39" />
+
+8. ![8](06-kinetic-02-humanoid-logo-mark.png)<img width="1024" height="1024" alt="8" src="https://github.com/user-attachments/assets/ed11be68-b486-4dd4-bef8-7d431235c3ff" />
+
+9. ![9](06-kinetic-03-robotics-sensor-macro.png)<img width="1024" height="1024" alt="9" src="https://github.com/user-attachments/assets/cadf49c5-2e8a-4bcd-9f71-ce22f6663933" />
