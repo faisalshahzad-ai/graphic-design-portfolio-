@@ -10,56 +10,7 @@ Brand identity, logo and visual design projects by Faisal Shahzad.
 | 02 | Spatial Labs - Brand Identity Studio | Parametric isometric wireframe brand identity for a spatial computing studio, with a 6-second animated loop, optical guides, camera views and brand lockup | Graphic Design, Brand Identity, Motion, Three.js, React | [02-spatial-labs-brand-identity-studio.html](02-spatial-labs-brand-identity-studio.html) |
 | 03 | Maison Botanique - Haute Parfumerie Brand Identity | Haute parfumerie brand identity with a bespoke Didone monogram, single-line jasmine contour mark, perfume flacon and letterpress stationery mockups, colour and print specs, and an interactive specimen page | Graphic Design, Brand Identity, Typography, React | [03-maison-botanique-haute-parfumerie-brand-identity.html](03-maison-botanique-haute-parfumerie-brand-identity.html) |
 | 04 | Chroma Kinetic - Avant-Garde Liquid Chrome Identity Studio | Motion graphics and brand identity studio with molten liquid chrome 3D typography, a 6-second animated loop, golden ratio kinetic type, camera and lighting controls, and mockup systems | Graphic Design, Brand Identity, Motion, Three.js, React | [04-chroma-kinetic-avant-garde-liquid-chrome-identity-studio.html](04-chroma-kinetic-avant-garde-liquid-chrome-identity-studio.html) |
-# 05 · Banque Privée 1924: Brand Identity & Heraldic Crest System
-
-![05 Banque Privée 1924](05-banque-privee-1924-brand-identity-cover.png)
-
-**Project 05** | Graphic Design | Brand Identity
-
-A concept brand identity for a centennial private banking sanctuary, designed to look established, discreet and trustworthy. The system is built around a deconstructed heraldic crest (a geometric lion and a Swiss key) on a 12-column Swiss grid, with Oxford navy, warm alabaster and matte silver deboss.
-
-> Concept project created to showcase brand identity work.
-
-## What is inside
-
-- **Heraldic crest:** vector crest built on the golden ratio (1 : 1.618)
-- **Four crest variants:** silver on navy, alabaster on navy, gilt on navy, navy on alabaster
-- **Colour system:** HEX, RGB, CMYK and Pantone values
-- **Typography:** Cinzel, Cormorant Garamond and Plus Jakarta Sans
-- **Swiss grid rules:** 12 columns, 1:1 master frame, clear space and minimum sizes
-- **Materiality:** debossed seal and stationery mockups
-- **Guidelines:** a clear "what to avoid" list
-
-## Colour palette
-
-| Name | HEX | Role |
-| --- | --- | --- |
-| Oxford Navy | `#0B192C` | Primary ground |
-| Warm Alabaster | `#F7F3ED` | Primary surface |
-| Matte Silver Deboss | `#CBD3DC` | Hallmark and foil stamp |
-| Obsidian Shadow | `#050E1A` | Deboss cavity and depth |
-| Centennial Gilt | `#C5A869` | Archival accent |
-
-## Tech stack
-
-React 19, TypeScript, Vite, Tailwind CSS 4, Motion, Lucide React
-
-## Run locally
-
-```bash
-npm install
-npm run dev
-```
-
-Open `http://localhost:3000`. No API key is needed.
-
-## Preview
-
-Open `05-banque-privee-1924-brand-identity.html` in any browser for the single-file version.
-
-## Contact
-
-Need a brand identity for your bank, studio or business? Message me to discuss your project.
+| 05 | Banque Privée 1924 - Brand Identity & Heraldic Crest System | Brand identity for a centennial private banking sanctuary with a deconstructed heraldic crest on a 12-column Swiss grid, four crest variants, a five-colour system with Pantone values, three-typeface rules, and debossed seal and stationery mockups | Graphic Design, Brand Identity, Heraldic Crest, React, TypeScript | [05-banque-privee-1924-brand-identity.html](05-banque-privee-1924-brand-identity.html) |
 
 ## Screenshots
 
@@ -216,31 +167,15 @@ ue-haute-parfumerie-brand-identity-graphic-04-botanical-distillation (1)" src="h
 
 ### 05 · Banque Privée 1924: Brand Identity & Heraldic Crest System
 
-**Graphic Design | Brand Identity | Concept project**
-
-A brand identity for a centennial private banking sanctuary, built around a deconstructed heraldic crest on a 12-column Swiss grid.
-
-#### 1. Cover
 ![05 Cover](05-banque-privee-1924-brand-identity/05-banque-privee-1924-01-cover.png)
-Project title and the main heraldic crest: a geometric lion and a Swiss key, built on the golden ratio.
-<img width="2880" height="1520" alt="05-banque-privee-1924-01-cover" src="https://github.com/user-attachments/assets/38a84997-3e0f-470d-89b8-003159cbf35d" />
+<img width="2880" height="1520" alt="05-banque-privee-1924-01-cover" src="https://github.com/user-attachments/assets/27d34961-401f-4a8f-b45d-71f5f9e648d7" />
 
-#### 2. Crest Variants
 ![05 Crest Variants](05-banque-privee-1924-brand-identity/05-banque-privee-1924-02-crest-variants.png)
-Four versions of the crest: silver on navy, alabaster on navy, gilt on navy and navy on alabaster.
-<img width="2288" height="1066" alt="05-banque-privee-1924-02-crest-variants" src="https://github.com/user-attachments/assets/f31429be-5a18-43e9-a243-0f8bd22b8a3a" />
+<img width="2288" height="1066" alt="05-banque-privee-1924-02-crest-variants" src="https://github.com/user-attachments/assets/507ca529-ee8d-4040-9d6c-d9aa3f00c96e" />
 
-#### 3. Colour Palette
 ![05 Colour Palette](05-banque-privee-1924-brand-identity/05-banque-privee-1924-03-colour-palette.png)
-Oxford Navy, Warm Alabaster, Matte Silver Deboss, Obsidian Shadow and Centennial Gilt, with HEX, RGB, CMYK and Pantone values.
-<img width="2288" height="1064" alt="05-banque-privee-1924-03-colour-palette" src="https://github.com/user-attachments/assets/c86d1b60-1fd9-4e99-b651-6bd17daf0b90" />
+<img width="2288" height="1064" alt="05-banque-privee-1924-03-colour-palette" src="https://github.com/user-attachments/assets/002e1e5c-9327-4432-8b4d-785f1aa08c51" />
 
-#### 4. Seal & Stationery
 ![05 Seal and Stationery](05-banque-privee-1924-brand-identity/05-banque-privee-1924-04-seal-stationery.png)
-Debossed seal and stationery mockups showing the identity on real printed materials.
-<img width="2288" height="1198" alt="05-banque-privee-1924-04-seal-stationery" src="https://github.com/user-attachments/assets/fafc7216-ae15-45ea-a96d-6ae2f2022487" />
+<img width="2288" height="1198" alt="05-banque-privee-1924-04-seal-stationery" src="https://github.com/user-attachments/assets/daa9ff9a-2e71-43a6-8c1d-780bceb7b3a6" />
 
-**Tech stack:** React 19, TypeScript, Vite, Tailwind CSS 4
-**Files:** [Project folder](05-banque-privee-1924-brand-identity) | [HTML specimen page](05-banque-privee-1924-brand-identity/05-banque-privee-1924-brand-identity.html)
-
----
