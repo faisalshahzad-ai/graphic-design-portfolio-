@@ -10,6 +10,56 @@ Brand identity, logo and visual design projects by Faisal Shahzad.
 | 02 | Spatial Labs - Brand Identity Studio | Parametric isometric wireframe brand identity for a spatial computing studio, with a 6-second animated loop, optical guides, camera views and brand lockup | Graphic Design, Brand Identity, Motion, Three.js, React | [02-spatial-labs-brand-identity-studio.html](02-spatial-labs-brand-identity-studio.html) |
 | 03 | Maison Botanique - Haute Parfumerie Brand Identity | Haute parfumerie brand identity with a bespoke Didone monogram, single-line jasmine contour mark, perfume flacon and letterpress stationery mockups, colour and print specs, and an interactive specimen page | Graphic Design, Brand Identity, Typography, React | [03-maison-botanique-haute-parfumerie-brand-identity.html](03-maison-botanique-haute-parfumerie-brand-identity.html) |
 | 04 | Chroma Kinetic - Avant-Garde Liquid Chrome Identity Studio | Motion graphics and brand identity studio with molten liquid chrome 3D typography, a 6-second animated loop, golden ratio kinetic type, camera and lighting controls, and mockup systems | Graphic Design, Brand Identity, Motion, Three.js, React | [04-chroma-kinetic-avant-garde-liquid-chrome-identity-studio.html](04-chroma-kinetic-avant-garde-liquid-chrome-identity-studio.html) |
+# 05 · Banque Privée 1924: Brand Identity & Heraldic Crest System
+
+![05 Banque Privée 1924](05-banque-privee-1924-brand-identity-cover.png)
+
+**Project 05** | Graphic Design | Brand Identity
+
+A concept brand identity for a centennial private banking sanctuary, designed to look established, discreet and trustworthy. The system is built around a deconstructed heraldic crest (a geometric lion and a Swiss key) on a 12-column Swiss grid, with Oxford navy, warm alabaster and matte silver deboss.
+
+> Concept project created to showcase brand identity work.
+
+## What is inside
+
+- **Heraldic crest:** vector crest built on the golden ratio (1 : 1.618)
+- **Four crest variants:** silver on navy, alabaster on navy, gilt on navy, navy on alabaster
+- **Colour system:** HEX, RGB, CMYK and Pantone values
+- **Typography:** Cinzel, Cormorant Garamond and Plus Jakarta Sans
+- **Swiss grid rules:** 12 columns, 1:1 master frame, clear space and minimum sizes
+- **Materiality:** debossed seal and stationery mockups
+- **Guidelines:** a clear "what to avoid" list
+
+## Colour palette
+
+| Name | HEX | Role |
+| --- | --- | --- |
+| Oxford Navy | `#0B192C` | Primary ground |
+| Warm Alabaster | `#F7F3ED` | Primary surface |
+| Matte Silver Deboss | `#CBD3DC` | Hallmark and foil stamp |
+| Obsidian Shadow | `#050E1A` | Deboss cavity and depth |
+| Centennial Gilt | `#C5A869` | Archival accent |
+
+## Tech stack
+
+React 19, TypeScript, Vite, Tailwind CSS 4, Motion, Lucide React
+
+## Run locally
+
+```bash
+npm install
+npm run dev
+```
+
+Open `http://localhost:3000`. No API key is needed.
+
+## Preview
+
+Open `05-banque-privee-1924-brand-identity.html` in any browser for the single-file version.
+
+## Contact
+
+Need a brand identity for your bank, studio or business? Message me to discuss your project.
 
 ## Screenshots
 
@@ -163,4 +213,37 @@ er-attachments/assets/5306a351-3a3a-496c-9872-7d95d7aa026f" />
 ue-haute-parfumerie-brand-identity-graphic-04-botanical-distillation (1)" src="https://github.com/user-attachments/assets/a30b6636-ccf7-4cfc-a157-affe1d6847a2" />
 
 ![Botanical Distillation](03-graphics/4-botanical-distillation.jpg)
+
+### 05 · Banque Privée 1924: Brand Identity & Heraldic Crest System
+
+![05 Banque Privée 1924](05-banque-privee-1924-brand-identity/05-banque-privee-1924-01-cover.png)
+
+**Category:** Graphic Design | Brand Identity
+**Type:** Concept project
+
+A brand identity for a centennial private banking sanctuary, designed to look established, discreet and trustworthy. The system is built around a deconstructed heraldic crest (a geometric lion and a Swiss key) on a 12-column Swiss grid.
+
+**1. Heraldic Crest**
+<img width="2880" height="1520" alt="05-banque-privee-1924-01-cover" src="https://github.com/user-attachments/assets/6eba7f5e-0cab-487a-a079-5681127d56b5" />
+
+Vector crest with crown, key, geometric lion and shield, built on the golden ratio (1 : 1.618).
+
+![Crest variants](05-banque-privee-1924-brand-identity/05-banque-privee-1924-02-crest-variants.png)
+
+**2. Crest Variants**
+<img width="2288" height="1066" alt="05-banque-privee-1924-02-crest-variants" src="https://github.com/user-attachments/assets/4660024a-f0e6-40a7-94f6-dcddf800c48d" />
+
+Four versions: silver on navy, alabaster on navy, gilt on navy and navy on alabaster.
+
+**3. Colour System**
+<img width="2288" height="1064" alt="05-banque-privee-1924-03-colour-palette" src="https://github.com/user-attachments/assets/39740117-ffe4-4836-afe8-1fba74d6ea5b" />
+
+Oxford Navy `#0B192C`, Warm Alabaster `#F7F3ED`, Matte Silver Deboss `#CBD3DC`, Obsidian Shadow `#050E1A` and Centennial Gilt `#C5A869`, with RGB, CMYK and Pantone values.
+
+![Colour palette](05-banque-privee-1924-brand-identity/05-banque-privee-1924-03-colour-palette.png)
+
+**4. Typography**
+<img width="2288" height="1198" alt="05-banque-privee-1924-04-seal-stationery" src="https://github.com/user-attachments/assets/e242a26b-9d5e-4b92-a4dd-929df6e88970" />
+
+Cinzel for the primary lockup, Cormorant Garamond for correspondence, Plus Jakarta Sans for data and microprint.
 
