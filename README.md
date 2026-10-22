@@ -12,6 +12,7 @@ Brand identity, logo and visual design projects by Faisal Shahzad.
 | 04 | Chroma Kinetic - Avant-Garde Liquid Chrome Identity Studio | Motion graphics and brand identity studio with molten liquid chrome 3D typography, a 6-second animated loop, golden ratio kinetic type, camera and lighting controls, and mockup systems | Graphic Design, Brand Identity, Motion, Three.js, React | [04-chroma-kinetic-avant-garde-liquid-chrome-identity-studio.html](04-chroma-kinetic-avant-garde-liquid-chrome-identity-studio.html) |
 | 05 | Banque Privée 1924 - Brand Identity & Heraldic Crest System | Brand identity for a centennial private banking sanctuary with a deconstructed heraldic crest on a 12-column Swiss grid, four crest variants, a five-colour system with Pantone values, three-typeface rules, and debossed seal and stationery mockups | Graphic Design, Brand Identity, Heraldic Crest, React, TypeScript | [05-banque-privee-1924-brand-identity.html](05-banque-privee-1924-brand-identity.html) |
 | 06 | KINETIC Autonomous Systems - Brand Identity & Vector Engine | Brand identity for an autonomous humanoid robotics foundry with a precision logo mark built on a golden ratio vector path blueprint, a colour and surface matrix, brand guidelines sheet, lockup customizer, vector export, and in-situ showcase | Graphic Design, Brand Identity, Vector Logo, React, TypeScript | [06-kinetic-autonomous-systems.html](06-kinetic-autonomous-systems.html) |
+| 07 | Aurore D'Or - Luxury Brand Identity & Packaging Portfolio | Brand identity and packaging portfolio for a fictional French haute parfumerie house with six key visuals (hero flacon, brass cap detail, rigid box, heritage collection trio, editorial print ad, stationery suite), detailed spec sheets, brand system and olfactory pyramid views, autoplay, inspector panel, present mode, and an 8K loupe zoom | Graphic Design, Brand Identity, Packaging Design, React, TypeScript | [07-aurore-dor-brand-portfolio.html](07-aurore-dor-brand-portfolio.html) |
 
 ## Screenshots
 
@@ -182,7 +183,6 @@ ue-haute-parfumerie-brand-identity-graphic-04-botanical-distillation (1)" src="h
 
 ### 06 KINETIC Autonomous Systems - Brand Identity & Vector Engine
 
-### 06 KINETIC Autonomous Systems - Brand Identity & Vector Engine
 
 1. ![1](06-kinetic-01-master-emblem.png)<img width="1440" height="990" alt="1" src="https://github.com/user-attachments/assets/001ab21a-04b1-4b27-932d-4414bf9d951b" />
 
@@ -201,3 +201,26 @@ ue-haute-parfumerie-brand-identity-graphic-04-botanical-distillation (1)" src="h
 8. ![8](06-kinetic-02-humanoid-logo-mark.png)<img width="1024" height="1024" alt="8" src="https://github.com/user-attachments/assets/ed11be68-b486-4dd4-bef8-7d431235c3ff" />
 
 9. ![9](06-kinetic-03-robotics-sensor-macro.png)<img width="1024" height="1024" alt="9" src="https://github.com/user-attachments/assets/cadf49c5-2e8a-4bcd-9f71-ce22f6663933" />
+
+### 07 Aurore D'Or - Luxury Brand Identity & Packaging Portfolio
+
+
+1. ![1](07-aurore-01-hero-flacon.png)
+<img width="1440" height="1100" alt="07-aurore-01-hero-flacon" src="https://github.com/user-attachments/assets/4efad52a-7b4f-4359-a3b8-ecc9825e3e54" />
+
+2. ![2](07-aurore-02-brass-cap-monogram.png)
+<img width="1440" height="1100" alt="07-aurore-02-brass-cap-monogram" src="https://github.com/user-attachments/assets/16f10997-4c1c-4544-aa71-072664f1d0e4" />
+
+3. ![3](07-aurore-03-rigid-secondary-box.png)
+<img width="1440" height="1100" alt="07-aurore-03-rigid-secondary-box" src="https://github.com/user-attachments/assets/5f5a2e63-5132-41b7-93a8-f08897d67f88" />
+
+4. ![4](07-aurore-04-heritage-collection-trio.png)
+<img width="1440" height="1100" alt="07-aurore-04-heritage-collection-trio" src="https://github.com/user-attachments/assets/676d2567-07ee-4665-ae3b-e2777dae53ab" />
+
+5. ![5](07-aurore-05-editorial-campaign-ad.png)
+<img width="1440" height="1100" alt="07-aurore-05-editorial-campaign-ad" src="https://github.com/user-attachments/assets/c669ff7f-4276-4578-9b7e-0497e2f30ade" />
+
+6. ![6](07-aurore-06-stationery-blotter-suite.png)
+<img width="1440" height="1100" alt="07-aurore-06-stationery-blotter-suite" src="https://github.com/user-attachments/assets/939e8757-31df-4b4c-b787-abf41a8092ae" />
+
+   
