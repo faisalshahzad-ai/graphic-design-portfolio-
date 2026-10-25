@@ -228,13 +228,19 @@ ue-haute-parfumerie-brand-identity-graphic-04-botanical-distillation (1)" src="h
 ### 08 Screenshots
 
 ![08 Ambre Solaire - 01 Hero Terracotta and Glass Flacon](08-ambre-solaire-sunlit-terracotta-essence-01-hero-terracotta-flacon.png)
+<img width="1600" height="1200" alt="Ambre_Solaire_Slide_01_1600x1200" src="https://github.com/user-attachments/assets/937abaa8-744b-407c-974d-efd9ad1b4d14" />
 
 ![08 Ambre Solaire - 02 Hammered Bronze Cap Macro](08-ambre-solaire-sunlit-terracotta-essence-02-hammered-bronze-cap.png)
+<img width="1600" height="1200" alt="Ambre_Solaire_Slide_02_1600x1200" src="https://github.com/user-attachments/assets/c1ab903b-8c37-439a-834f-e5a156ca5d3a" />
 
 ![08 Ambre Solaire - 03 Recycled Molded Pulp Gift Box](08-ambre-solaire-sunlit-terracotta-essence-03-molded-pulp-gift-box.png)
+<img width="1600" height="1200" alt="Ambre_Solaire_Slide_03_1600x1200" src="https://github.com/user-attachments/assets/9ca79d2f-5873-4379-ac76-93fffc06dcfb" />
 
 ![08 Ambre Solaire - 04 Sunlit Desert Campaign Editorial](08-ambre-solaire-sunlit-terracotta-essence-04-campaign-editorial.png)
+<img width="1600" height="1200" alt="Ambre_Solaire_Slide_04_1600x1200" src="https://github.com/user-attachments/assets/1fdba2da-ba54-4660-bd44-82f10743870d" />
 
 ![08 Ambre Solaire - 05 Refill Mechanism Exploded Diagram](08-ambre-solaire-sunlit-terracotta-essence-05-refill-mechanism.png)
+<img width="1600" height="1200" alt="Ambre_Solaire_Slide_05_1600x1200" src="https://github.com/user-attachments/assets/7c9624b8-b462-4e97-b370-ade963246f89" />
 
 ![08 Ambre Solaire - 06 Resort Amenity Scent Suite](08-ambre-solaire-sunlit-terracotta-essence-06-resort-amenity-suite.png)
+<img width="1600" height="1200" alt="Ambre_Solaire_Slide_06_1600x1200" src="https://github.com/user-attachments/assets/765f8e1f-4b33-4b6a-8c15-69dde520bf89" />
