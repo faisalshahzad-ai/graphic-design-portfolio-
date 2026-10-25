@@ -13,6 +13,7 @@ Brand identity, logo and visual design projects by Faisal Shahzad.
 | 05 | Banque Privée 1924 - Brand Identity & Heraldic Crest System | Brand identity for a centennial private banking sanctuary with a deconstructed heraldic crest on a 12-column Swiss grid, four crest variants, a five-colour system with Pantone values, three-typeface rules, and debossed seal and stationery mockups | Graphic Design, Brand Identity, Heraldic Crest, React, TypeScript | [05-banque-privee-1924-brand-identity.html](05-banque-privee-1924-brand-identity.html) |
 | 06 | KINETIC Autonomous Systems - Brand Identity & Vector Engine | Brand identity for an autonomous humanoid robotics foundry with a precision logo mark built on a golden ratio vector path blueprint, a colour and surface matrix, brand guidelines sheet, lockup customizer, vector export, and in-situ showcase | Graphic Design, Brand Identity, Vector Logo, React, TypeScript | [06-kinetic-autonomous-systems.html](06-kinetic-autonomous-systems.html) |
 | 07 | Aurore D'Or - Luxury Brand Identity & Packaging Portfolio | Brand identity and packaging portfolio for a fictional French haute parfumerie house with six key visuals (hero flacon, brass cap detail, rigid box, heritage collection trio, editorial print ad, stationery suite), detailed spec sheets, brand system and olfactory pyramid views, autoplay, inspector panel, present mode, and an 8K loupe zoom | Graphic Design, Brand Identity, Packaging Design, React, TypeScript | [07-aurore-dor-brand-portfolio.html](07-aurore-dor-brand-portfolio.html) |
+| 08 | Ambre Solaire - Sunlit Terracotta Essence | Luxury fragrance branding deck: terracotta flacon, hammered bronze cap, recycled pulp packaging and desert resort suite, shown as 6 interactive slides | <your tools> | [08-ambre-solaire-sunlit-terracotta-essence.html](08-ambre-solaire-sunlit-terracotta-essence.html) |
 
 ## Screenshots
 
@@ -224,3 +225,22 @@ ue-haute-parfumerie-brand-identity-graphic-04-botanical-distillation (1)" src="h
 <img width="1440" height="1100" alt="07-aurore-06-stationery-blotter-suite" src="https://github.com/user-attachments/assets/939e8757-31df-4b4c-b787-abf41a8092ae" />
 
    
+### 08 Screenshots
+
+![08 Ambre Solaire - 01 Hero Terracotta and Glass Flacon](08-ambre-solaire-sunlit-terracotta-essence-01-hero-terracotta-flacon.png)
+<img width="1600" height="1200" alt="Ambre_Solaire_Slide_01_1600x1200" src="https://github.com/user-attachments/assets/9e08d3aa-bae2-4416-bc4c-97a03a5408e0" />
+
+![08 Ambre Solaire - 02 Hammered Bronze Cap Macro](08-ambre-solaire-sunlit-terracotta-essence-02-hammered-bronze-cap.png)
+<img width="1600" height="1200" alt="Ambre_Solaire_Slide_02_1600x1200" src="https://github.com/user-attachments/assets/5d57bb27-4df9-452f-aecc-5e60ed64518c" />
+
+![08 Ambre Solaire - 03 Recycled Molded Pulp Gift Box](08-ambre-solaire-sunlit-terracotta-essence-03-molded-pulp-gift-box.png)
+<img width="1600" height="1200" alt="Ambre_Solaire_Slide_03_1600x1200" src="https://github.com/user-attachments/assets/c6514f2a-bdf7-4df6-a377-da1b7ad210eb" />
+
+![08 Ambre Solaire - 04 Sunlit Desert Campaign Editorial](08-ambre-solaire-sunlit-terracotta-essence-04-campaign-editorial.png)
+<img width="1600" height="1200" alt="Ambre_Solaire_Slide_04_1600x1200" src="https://github.com/user-attachments/assets/4bf90ac5-aecb-4f68-bf8e-b64fa92c9651" />
+
+![08 Ambre Solaire - 05 Refill Mechanism Exploded Diagram](08-ambre-solaire-sunlit-terracotta-essence-05-refill-mechanism.png)
+<img width="1600" height="1200" alt="Ambre_Solaire_Slide_05_1600x1200" src="https://github.com/user-attachments/assets/7e9c8a0a-d13a-46c5-b890-95bba1284cc6" />
+
+![08 Ambre Solaire - 06 Resort Amenity Scent Suite](08-ambre-solaire-sunlit-terracotta-essence-06-resort-amenity-suite.png)
+<img width="1600" height="1200" alt="Ambre_Solaire_Slide_06_1600x1200" src="https://github.com/user-attachments/assets/68e56e7a-90fb-46b7-a7e1-0e81bb0f3dc1" />
