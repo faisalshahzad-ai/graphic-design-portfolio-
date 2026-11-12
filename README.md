@@ -14,6 +14,7 @@ Brand identity, logo and visual design projects by Faisal Shahzad.
 | 06 | KINETIC Autonomous Systems - Brand Identity & Vector Engine | Brand identity for an autonomous humanoid robotics foundry with a precision logo mark built on a golden ratio vector path blueprint, a colour and surface matrix, brand guidelines sheet, lockup customizer, vector export, and in-situ showcase | Graphic Design, Brand Identity, Vector Logo, React, TypeScript | [06-kinetic-autonomous-systems.html](06-kinetic-autonomous-systems.html) |
 | 07 | Aurore D'Or - Luxury Brand Identity & Packaging Portfolio | Brand identity and packaging portfolio for a fictional French haute parfumerie house with six key visuals (hero flacon, brass cap detail, rigid box, heritage collection trio, editorial print ad, stationery suite), detailed spec sheets, brand system and olfactory pyramid views, autoplay, inspector panel, present mode, and an 8K loupe zoom | Graphic Design, Brand Identity, Packaging Design, React, TypeScript | [07-aurore-dor-brand-portfolio.html](07-aurore-dor-brand-portfolio.html) |
 | 08 | Ambre Solaire - Sunlit Terracotta Essence | Luxury fragrance branding deck: terracotta flacon, hammered bronze cap, recycled pulp packaging and desert resort suite, shown as 6 interactive slides | <your tools> | [08-ambre-solaire-sunlit-terracotta-essence.html](08-ambre-solaire-sunlit-terracotta-essence.html) |
+| 09 | Valois & Terre - Luxury Graphic Design Portfolio | Luxury perfume advertising portfolio: olive glass flacon, gold foil and cork packaging, desert, botanical, marble and water-splash campaigns, shown as 20 interactive campaign cards with lightbox | Google AI Studio, React, Vite, Tailwind CSS | [09-valois-terre-luxury-graphic-design.html](09-valois-terre-luxury-graphic-design.html) |
 
 ## Screenshots
 
@@ -244,3 +245,38 @@ ue-haute-parfumerie-brand-identity-graphic-04-botanical-distillation (1)" src="h
 
 ![08 Ambre Solaire - 06 Resort Amenity Scent Suite](08-ambre-solaire-sunlit-terracotta-essence-06-resort-amenity-suite.png)
 <img width="1600" height="1200" alt="Ambre_Solaire_Slide_06_1600x1200" src="https://github.com/user-attachments/assets/765f8e1f-4b33-4b6a-8c15-69dde520bf89" />
+
+### 09 Screenshots
+
+![09 Valois & Terre - 01 Nocturne Black Gold Studio Hero](09-valois-et-terre-01-nocturne-black-gold-studio.png)
+<img ... 01 ... />
+<img width="1200" height="896" alt="black_gold_studio" src="https://github.com/user-attachments/assets/178a08df-6c95-4a13-9ae1-f744ac7d7e3f" />
+
+![09 Valois & Terre - 02 Botanical Herbs and Juniper Still Life](09-valois-et-terre-02-botanical-herbs-still-life.png)
+<img ... 02 ... />
+<img width="1200" height="896" alt="botanical_luxury_herbs" src="https://github.com/user-attachments/assets/d3d24179-ebe6-4d21-89fc-aa1b27777a1b" />
+
+![09 Valois & Terre - 03 Desert Sunset Campaign with Gift Box](09-valois-et-terre-03-desert-sunset-campaign.png)
+<img ... 03 ... />
+<img width="1200" height="896" alt="desert_luxury_campaign" src="https://github.com/user-attachments/assets/54e0f552-4b7c-4ac5-a578-a1f1aed777d5" />
+
+![09 Valois & Terre - 04 Cork and Brass Collar Macro](09-valois-et-terre-04-cork-brass-collar-macro.png)
+<img ... 04 ... />
+<img width="1200" height="896" alt="macro_bottle_detail" src="https://github.com/user-attachments/assets/5b0d60d1-6187-46f6-9006-b8514e67020e" />
+
+![09 Valois & Terre - 05 Travertine and Marble Gold Architecture](09-valois-et-terre-05-travertine-marble-gold.png)
+<img ... 05 ... />
+<img width="1200" height="896" alt="marble_gold_architecture" src="https://github.com/user-attachments/assets/2a441205-2750-408a-856a-a79c47455d5f" />
+
+![09 Valois & Terre - 06 Volcanic Stone Minimalist Dark](09-valois-et-terre-06-volcanic-stone-dark.png)
+<img ... 06 ... />
+<img width="1200" height="896" alt="pebble_minimalist_dark" src="https://github.com/user-attachments/assets/2cb7d396-9e6d-4c30-8be7-afb6bf5b6fe8" />
+
+![09 Valois & Terre - 07 Signature Le Temps Infuse Terrace](09-valois-et-terre-07-signature-le-temps-infuse.png)
+<img ... 07 ... />
+<img width="1200" height="896" alt="signature_masterpiece" src="https://github.com/user-attachments/assets/451b87bc-b38d-45a4-a239-da2ba82b3db7" />
+
+![09 Valois & Terre - 08 Aurora Aqua Water Splash](09-valois-et-terre-08-water-splash.png)
+<img ... 08 ... />
+<img width="1200" height="896" alt="water_droplets_splash" src="https://github.com/user-attachments/assets/c48dfabf-a5d8-4fb7-9087-99a48cb04a31" />
+
