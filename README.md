@@ -15,6 +15,8 @@ Brand identity, logo and visual design projects by Faisal Shahzad.
 | 07 | Aurore D'Or - Luxury Brand Identity & Packaging Portfolio | Brand identity and packaging portfolio for a fictional French haute parfumerie house with six key visuals (hero flacon, brass cap detail, rigid box, heritage collection trio, editorial print ad, stationery suite), detailed spec sheets, brand system and olfactory pyramid views, autoplay, inspector panel, present mode, and an 8K loupe zoom | Graphic Design, Brand Identity, Packaging Design, React, TypeScript | [07-aurore-dor-brand-portfolio.html](07-aurore-dor-brand-portfolio.html) |
 | 08 | Ambre Solaire - Sunlit Terracotta Essence | Luxury fragrance branding deck: terracotta flacon, hammered bronze cap, recycled pulp packaging and desert resort suite, shown as 6 interactive slides | <your tools> | [08-ambre-solaire-sunlit-terracotta-essence.html](08-ambre-solaire-sunlit-terracotta-essence.html) |
 | 09 | Valois & Terre - Luxury Graphic Design Portfolio | Luxury perfume advertising portfolio: olive glass flacon, gold foil and cork packaging, desert, botanical, marble and water-splash campaigns, shown as 20 interactive campaign cards with lightbox | Google AI Studio, React, Vite, Tailwind CSS | [09-valois-terre-luxury-graphic-design.html](09-valois-terre-luxury-graphic-design.html) |
+| 10 | Haute Archive - Luxury Fashion Advertising Campaigns | Portfolio of 20 ultra-premium USA and UK luxury fashion advertising campaigns, with editorial art direction, lookbook, campaign cards with lightbox, and individual PNG export | Google AI Studio, React, Vite, Tailwind CSS, Gemini API | [10-haute-archive-_-luxury-fashion-advertising-campaigns.html](10-haute-archive-_-luxury-fashion-advertising-campaigns.html) |
+
 
 ## Screenshots
 
@@ -279,4 +281,87 @@ ue-haute-parfumerie-brand-identity-graphic-04-botanical-distillation (1)" src="h
 ![09 Valois & Terre - 08 Aurora Aqua Water Splash](09-valois-et-terre-08-water-splash.png)
 <img ... 08 ... />
 <img width="1200" height="896" alt="water_droplets_splash" src="https://github.com/user-attachments/assets/c48dfabf-a5d8-4fb7-9087-99a48cb04a31" />
+
+### 10 Screenshots
+
+![10 Haute Archive - 01 British Luxury Evening Dress Campaign](10-haute-archive-01-british-luxury-evening-dress-campaign.png)
+<img ... 01 ... />
+<img width="1200" height="896" alt="Fashion_Design_02" src="https://github.com/user-attachments/assets/53ecc95a-3eb7-446d-9a35-f09d23015209" />
+
+![10 Haute Archive - 02 American Luxury Fashion Campaign](10-haute-archive-02-american-luxury-fashion-campaign.png)
+<img ... 02 ... />
+<img width="1200" height="896" alt="Fashion_Design_03" src="https://github.com/user-attachments/assets/76d5278c-375f-47d8-84d0-fb18d2bf7152" />
+
+![10 Haute Archive - 03 Luxury Red Carpet Evening Wear](10-haute-archive-03-luxury-red-carpet-evening-wear.png)
+<img ... 03 ... />
+<img width="1200" height="896" alt="Fashion_Design_04" src="https://github.com/user-attachments/assets/3806f615-d2f1-4931-bba1-317f1b894525" />
+
+![10 Haute Archive - 04 Old Money Fashion Editorial](10-haute-archive-04-old-money-fashion-editorial.png)
+<img ... 04 ... />
+<img width="1200" height="896" alt="Fashion_Design_05" src="https://github.com/user-attachments/assets/ca342e13-7bd8-4412-bfe8-88d039b69ee6" />
+
+![10 Haute Archive - 05 Luxury Summer Dress Campaign](10-haute-archive-05-luxury-summer-dress-campaign.png)
+<img ... 05 ... />
+<img width="1200" height="896" alt="Fashion_Design_06" src="https://github.com/user-attachments/assets/d28ac480-11e3-441e-a93f-5b6a99c4d0da" />
+
+![10 Haute Archive - 06 Parisian-Inspired Luxury Fashion](10-haute-archive-06-parisian-inspired-luxury-fashion.png)
+<img ... 06 ... />
+<img width="1200" height="896" alt="Fashion_Design_07" src="https://github.com/user-attachments/assets/7993d944-325b-429c-aef9-3ad4b5617c4f" />
+
+![10 Haute Archive - 07 Luxury Winter Fashion Campaign](10-haute-archive-07-luxury-winter-fashion-campaign.png)
+<img ... 07 ... />
+<img width="1200" height="896" alt="Fashion_Design_08" src="https://github.com/user-attachments/assets/edc6ed8c-2a60-40a5-b101-30124f2c8169" />
+
+![10 Haute Archive - 08 Modern Minimalist Designer Dress](10-haute-archive-08-modern-minimalist-designer-dress.png)
+<img ... 08 ... />
+<img width="1200" height="896" alt="Fashion_Design_09" src="https://github.com/user-attachments/assets/79af17ee-c70b-4369-9903-45897cd81e8d" />
+
+![10 Haute Archive - 09 Luxury Garden Fashion Editorial](10-haute-archive-09-luxury-garden-fashion-editorial.png)
+<img ... 09 ... />
+<img width="1200" height="896" alt="Fashion_Design_10" src="https://github.com/user-attachments/assets/ab8bfe48-dc71-484b-a637-5b01923d23be" />
+
+![10 Haute Archive - 10 Black Tie Luxury Fashion](10-haute-archive-10-black-tie-luxury-fashion.png)
+<img ... 10 ... />
+<img width="1200" height="896" alt="Fashion_Design_11" src="https://github.com/user-attachments/assets/1293fd14-fa47-4bc3-a988-137bbc724498" />
+
+![10 Haute Archive - 11 High-End Boutique Fashion Campaign](10-haute-archive-11-high-end-boutique-fashion-campaign.png)
+<img ... 11 ... />
+<img width="1200" height="896" alt="Fashion_Design_12" src="https://github.com/user-attachments/assets/f7d1b4bc-5545-49bb-8e7c-a35f27a873f7" />
+
+![10 Haute Archive - 12 Luxury Coastal Fashion Campaign](10-haute-archive-12-luxury-coastal-fashion-campaign.png)
+<img ... 12 ... />
+<img width="1200" height="896" alt="Fashion_Design_13" src="https://github.com/user-attachments/assets/eb929c5f-fc2e-4d40-a677-f43e4a1e16ed" />
+
+![10 Haute Archive - 13 Premium Wedding Guest Collection](10-haute-archive-13-premium-wedding-guest-collection.png)
+<img ... 13 ... />
+<img width="1200" height="896" alt="Fashion_Design_14" src="https://github.com/user-attachments/assets/0696c945-0f94-44cf-a1b2-c7b9c0e104c7" />
+
+![10 Haute Archive - 14 British Royal-Inspired Elegance](10-haute-archive-14-british-royal-inspired-elegance.png)
+<img ... 14 ... />
+<img width="1200" height="896" alt="Fashion_Design_15" src="https://github.com/user-attachments/assets/a33f666b-4644-431e-ae20-1a58a5dbc399" />
+
+![10 Haute Archive - 15 Luxury Street Style Campaign](10-haute-archive-15-luxury-street-style-campaign.png)
+<img ... 15 ... />
+<img width="1200" height="896" alt="Fashion_Design_16" src="https://github.com/user-attachments/assets/29065557-4b7f-49e0-8d6f-fbd52fc0b1cb" />
+
+![10 Haute Archive - 16 Haute Couture Editorial](10-haute-archive-16-haute-couture-editorial.png)
+<img ... 16 ... />
+<img width="1200" height="896" alt="Fashion_Design_17" src="https://github.com/user-attachments/assets/6ba60079-a93c-4608-85d6-cc9d41f01315" />
+
+![10 Haute Archive - 17 Luxury Resort Wear Campaign](10-haute-archive-17-luxury-resort-wear-campaign.png)
+<img ... 17 ... />
+<img width="1200" height="896" alt="Fashion_Design_18" src="https://github.com/user-attachments/assets/8886b6e9-8e2c-49e7-89b7-fc7dea4fefb8" />
+
+![10 Haute Archive - 18 Autumn Designer Collection](10-haute-archive-18-autumn-designer-collection.png)
+<img ... 18 ... />
+<img width="1200" height="896" alt="Fashion_Design_19" src="https://github.com/user-attachments/assets/0822f10a-0a83-4244-83bd-46a1caa76be1" />
+
+![10 Haute Archive - 19 Luxury Fashion Magazine Cover Style](10-haute-archive-19-luxury-fashion-magazine-cover-style.png)
+<img ... 19 ... />
+<img width="1200" height="896" alt="Fashion_Design_20" src="https://github.com/user-attachments/assets/10af9d61-154d-4bee-9f54-585887e86ca5" />
+
+![10 Haute Archive - 20 Signature Million-Dollar Fashion Campaign](10-haute-archive-20-signature-million-dollar-fashion-campaign.png)
+<img ... 20 ... />
+<img width="1200" height="896" alt="Fashion_Design_01" src="https://github.com/user-attachments/assets/9bfd1375-3498-4810-ad5f-c1880393e324" />
+
 
