@@ -16,6 +16,7 @@ Brand identity, logo and visual design projects by Faisal Shahzad.
 | 08 | Ambre Solaire - Sunlit Terracotta Essence | Luxury fragrance branding deck: terracotta flacon, hammered bronze cap, recycled pulp packaging and desert resort suite, shown as 6 interactive slides | <your tools> | [08-ambre-solaire-sunlit-terracotta-essence.html](08-ambre-solaire-sunlit-terracotta-essence.html) |
 | 09 | Valois & Terre - Luxury Graphic Design Portfolio | Luxury perfume advertising portfolio: olive glass flacon, gold foil and cork packaging, desert, botanical, marble and water-splash campaigns, shown as 20 interactive campaign cards with lightbox | Google AI Studio, React, Vite, Tailwind CSS | [09-valois-terre-luxury-graphic-design.html](09-valois-terre-luxury-graphic-design.html) |
 | 10 | Haute Archive - Luxury Fashion Advertising Campaigns | Portfolio of 20 ultra-premium USA and UK luxury fashion advertising campaigns, with editorial art direction, lookbook, campaign cards with lightbox, and individual PNG export | Google AI Studio, React, Vite, Tailwind CSS, Gemini API | [10-haute-archive-_-luxury-fashion-advertising-campaigns.html](10-haute-archive-_-luxury-fashion-advertising-campaigns.html) |
+| 11 | Aurelle Skin - Luxury Skincare Design Portfolio | Portfolio of 20 premium luxury skincare advertising plates (1600x1200, 4:3), covering brand identity, beauty campaigns, packaging and print, and product posters, with a plate gallery, lightbox and individual image export | Google AI Studio, React, Vite, Tailwind CSS, Gemini API | [11-aurelle-skin-luxury-skincare-design-portfolio.html](11-aurelle-skin-luxury-skincare-design-portfolio.html) |
 
 
 ## Screenshots
@@ -364,4 +365,84 @@ ue-haute-parfumerie-brand-identity-graphic-04-botanical-distillation (1)" src="h
 <img ... 20 ... />
 <img width="1200" height="896" alt="Fashion_Design_01" src="https://github.com/user-attachments/assets/9bfd1375-3498-4810-ad5f-c1880393e324" />
 
+### 11 Screenshots
 
+![11 Aurelle Skin - 01 Luxury Brand Logo Presentation](11-aurelle-skin-01-luxury-brand-logo-presentation.png)
+<img ... 01 ... />
+<img width="1600" height="1200" alt="aurelle-skin-01-logo-presentation-1600x1200" src="https://github.com/user-attachments/assets/605dd74c-8ad8-4915-b587-3ead4c279369" />
+
+![11 Aurelle Skin - 02 Female Model Holding a Premium Face Serum](11-aurelle-skin-02-female-model-holding-a-premium-face-serum.png)
+<img ... 02 ... />
+<img width="1600" height="1200" alt="aurelle-skin-02-model-holding-serum-1600x1200" src="https://github.com/user-attachments/assets/7e837df1-1c8b-4c59-a10f-b1ae6f017af0" />
+
+![11 Aurelle Skin - 03 Close-Up Beauty Skincare Campaign](11-aurelle-skin-03-close-up-beauty-skincare-campaign.png)
+<img ... 03 ... />
+<img width="1600" height="1200" alt="aurelle-skin-03-closeup-beauty-campaign-1600x1200" src="https://github.com/user-attachments/assets/b29c9074-6947-4112-bd76-757e70e973d2" />
+
+![11 Aurelle Skin - 04 Premium Serum Bottle Advertising Poster](11-aurelle-skin-04-premium-serum-bottle-advertising-poster.png)
+<img ... 04 ... />
+<img width="1600" height="1200" alt="aurelle-skin-04-serum-advertising-poster-1600x1200" src="https://github.com/user-attachments/assets/06aa1ebc-1aa7-4d13-a0eb-6ab33f996ad9" />
+
+![11 Aurelle Skin - 05 Luxury Face Cream Jar Packaging Design](11-aurelle-skin-05-luxury-face-cream-jar-packaging-design.png)
+<img ... 05 ... />
+<img width="1600" height="1200" alt="aurelle-skin-05-face-cream-jar-packaging-1600x1200" src="https://github.com/user-attachments/assets/fb95b2ab-ec4c-403e-9bbe-c411d3e1e4a9" />
+
+![11 Aurelle Skin - 06 Complete Skincare Product Collection Ad](11-aurelle-skin-06-complete-skincare-product-collection-ad.png)
+<img ... 06 ... />
+<img width="1600" height="1200" alt="aurelle-skin-06-complete-collection-ad-1600x1200" src="https://github.com/user-attachments/assets/32878ccd-0f3f-44eb-8568-af31ac682c9b" />
+
+![11 Aurelle Skin - 07 Moisturizer Product Promotional Graphic](11-aurelle-skin-07-moisturizer-product-promotional-graphic.png)
+<img ... 07 ... />
+<img width="1600" height="1200" alt="aurelle-skin-07-moisturizer-promotional-graphic-1600x1200" src="https://github.com/user-attachments/assets/71e88434-354c-4425-8e39-706cbe8b9cb0" />
+
+![11 Aurelle Skin - 08 Female Model Applying Facial Moisturizer](11-aurelle-skin-08-female-model-applying-facial-moisturizer.png)
+<img ... 08 ... />
+<img width="1600" height="1200" alt="aurelle-skin-08-model-applying-moisturizer-1600x1200" src="https://github.com/user-attachments/assets/a0acf6f6-70db-4baf-bc9f-c096c8d6ed1c" />
+
+![11 Aurelle Skin - 09 Luxury Skincare Shopping Bag Design](11-aurelle-skin-09-luxury-skincare-shopping-bag-design.png)
+<img ... 09 ... />
+<img width="1600" height="1200" alt="aurelle-skin-09-luxury-shopping-bag-1600x1200" src="https://github.com/user-attachments/assets/bab35db8-b68f-44cc-8a47-1d041a549623" />
+
+![11 Aurelle Skin - 10 Premium Cosmetic Packaging Box Design](11-aurelle-skin-10-premium-cosmetic-packaging-box-design.png)
+<img ... 10 ... />
+<img width="1600" height="1200" alt="aurelle-skin-10-cosmetic-packaging-box-1600x1200" src="https://github.com/user-attachments/assets/dfb2f357-4aa8-4e77-a543-011017797cae" />
+
+![11 Aurelle Skin - 11 Embossed Gold Brand Logo on Product Box](11-aurelle-skin-11-embossed-gold-brand-logo-on-product-box.png)
+<img ... 11 ... />
+<img width="1600" height="1200" alt="aurelle-skin-11-embossed-gold-logo-box-1600x1200" src="https://github.com/user-attachments/assets/8be8f04b-3f66-41e8-83dc-f12091ddb1e7" />
+
+![11 Aurelle Skin - 12 Skincare Product Social Media Advertisement](11-aurelle-skin-12-skincare-product-social-media-advertisement.png)
+<img ... 12 ... />
+<img width="1600" height="1200" alt="aurelle-skin-12-social-media-advertisement-1600x1200" src="https://github.com/user-attachments/assets/3e50dcb7-c80b-4334-ae47-b4b2ff06fc95" />
+
+![11 Aurelle Skin - 13 Luxury Skincare Photography on Beige](11-aurelle-skin-13-luxury-skincare-photography-on-beige.png)
+<img ... 13 ... />
+<img width="1600" height="1200" alt="aurelle-skin-13-beige-product-photography-1600x1200" src="https://github.com/user-attachments/assets/4aa97b4d-a2e7-4650-a0bb-31c17131bccd" />
+
+![11 Aurelle Skin - 14 Facial Cleanser Promotional Poster](11-aurelle-skin-14-facial-cleanser-promotional-poster.png)
+<img ... 14 ... />
+<img width="1600" height="1200" alt="aurelle-skin-14-facial-cleanser-poster-1600x1200" src="https://github.com/user-attachments/assets/5b49c814-de3a-47c0-a876-fabc234861f3" />
+
+![11 Aurelle Skin - 15 Professional Skincare Product Label Design](11-aurelle-skin-15-professional-skincare-product-label-design.png)
+<img ... 15 ... />
+<img width="1600" height="1200" alt="aurelle-skin-15-product-label-design-1600x1200" src="https://github.com/user-attachments/assets/b9f2ec80-cba6-4447-8832-6327be4e277b" />
+
+![11 Aurelle Skin - 16 Premium Skincare Gift Set Advertisement](11-aurelle-skin-16-premium-skincare-gift-set-advertisement.png)
+<img ... 16 ... />
+<img width="1600" height="1200" alt="aurelle-skin-16-gift-set-advertisement-1600x1200" src="https://github.com/user-attachments/assets/c34448cf-14d1-444d-b5fa-dbc10a8c85eb" />
+
+![11 Aurelle Skin - 17 Female Beauty Model with Product Arrangement](11-aurelle-skin-17-female-beauty-model-with-product-arrangement.png)
+<img ... 17 ... />
+<img width="1600" height="1200" alt="aurelle-skin-17-model-product-arrangement-1600x1200" src="https://github.com/user-attachments/assets/e3026cd0-17ae-4329-91b6-600c69808916" />
+
+![11 Aurelle Skin - 18 Brand Stationery and Identity Presentation](11-aurelle-skin-18-brand-stationery-and-identity-presentation.png)
+<img ... 18 ... />
+<img width="1600" height="1200" alt="aurelle-skin-18-brand-stationery-identity-1600x1200" src="https://github.com/user-attachments/assets/40da2914-684b-49a5-b947-fd7be3241ce4" />
+
+![11 Aurelle Skin - 19 Editorial Skincare Campaign with Multiple Products](11-aurelle-skin-19-editorial-skincare-campaign-with-multiple-products.png)
+<img ... 19 ... />
+<img width="1600" height="1200" alt="aurelle-skin-19-editorial-multi-product-1600x1200" src="https://github.com/user-attachments/assets/d448dc42-317c-4663-8fac-c96a36b2c993" />
+
+![11 Aurelle Skin - 20 Complete AURELLE SKIN Brand Identity Showcase](11-aurelle-skin-20-complete-aurelle-skin-brand-identity-showcase.png)
+<img ... 20 ... />
+<img width="1600" height="1200" alt="aurelle-skin-20-complete-brand-identity-1600x1200" src="https://github.com/user-attachments/assets/7c352229-5381-4ea4-af11-2752b63e9b5f" />
