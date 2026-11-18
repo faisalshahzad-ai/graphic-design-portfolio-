@@ -17,6 +17,7 @@ Brand identity, logo and visual design projects by Faisal Shahzad.
 | 09 | Valois & Terre - Luxury Graphic Design Portfolio | Luxury perfume advertising portfolio: olive glass flacon, gold foil and cork packaging, desert, botanical, marble and water-splash campaigns, shown as 20 interactive campaign cards with lightbox | Google AI Studio, React, Vite, Tailwind CSS | [09-valois-terre-luxury-graphic-design.html](09-valois-terre-luxury-graphic-design.html) |
 | 10 | Haute Archive - Luxury Fashion Advertising Campaigns | Portfolio of 20 ultra-premium USA and UK luxury fashion advertising campaigns, with editorial art direction, lookbook, campaign cards with lightbox, and individual PNG export | Google AI Studio, React, Vite, Tailwind CSS, Gemini API | [10-haute-archive-_-luxury-fashion-advertising-campaigns.html](10-haute-archive-_-luxury-fashion-advertising-campaigns.html) |
 | 11 | Aurelle Skin - Luxury Skincare Design Portfolio | Portfolio of 20 premium luxury skincare advertising plates (1600x1200, 4:3), covering brand identity, beauty campaigns, packaging and print, and product posters, with a plate gallery, lightbox and individual image export | Google AI Studio, React, Vite, Tailwind CSS, Gemini API | [11-aurelle-skin-luxury-skincare-design-portfolio.html](11-aurelle-skin-luxury-skincare-design-portfolio.html) |
+| 12 | Velveté Cosmetics - Luxury Graphic Design Portfolio | Portfolio of 20 luxury cosmetics advertising plates (1600x1200, 4:3), covering beauty campaigns, product ads, packaging and brand identity, with a plate gallery, lightbox, individual image export and ZIP download | Google AI Studio, React, Vite, Tailwind CSS, Gemini API | [12-velvete-cosmetics-_-luxury-graphic-design-portfolio.html](12-velvete-cosmetics-_-luxury-graphic-design-portfolio.html) |
 
 
 ## Screenshots
@@ -446,3 +447,89 @@ ue-haute-parfumerie-brand-identity-graphic-04-botanical-distillation (1)" src="h
 ![11 Aurelle Skin - 20 Complete AURELLE SKIN Brand Identity Showcase](11-aurelle-skin-20-complete-aurelle-skin-brand-identity-showcase.png)
 <img ... 20 ... />
 <img width="1600" height="1200" alt="aurelle-skin-20-complete-brand-identity-1600x1200" src="https://github.com/user-attachments/assets/7c352229-5381-4ea4-af11-2752b63e9b5f" />
+
+
+### 12 Screenshots
+
+![12 Velveté Cosmetics - 01 VELVETÉ COSMETICS Luxury Logo Presentation](12-velvete-cosmetics-01-velvete-cosmetics-luxury-logo-presentation.png)
+<img ... 01 ... />
+<img width="1600" height="1200" alt="velvete-01-luxury-logo-presentation-1600x1200" src="https://github.com/user-attachments/assets/7202f8c4-03e4-464f-9e48-9e6419856fe6" />
+
+![12 Velveté Cosmetics - 02 Female Model Lipstick Campaign Poster](12-velvete-cosmetics-02-female-model-lipstick-campaign-poster.png)
+<img ... 02 ... />
+<img width="1600" height="1200" alt="velvete-02-model-lipstick-campaign-1600x1200" src="https://github.com/user-attachments/assets/833241d0-023e-4bd1-aff7-8f0f62fd6192" />
+
+![12 Velveté Cosmetics - 03 Luxury Lipstick Product Advertisement](12-velvete-cosmetics-03-luxury-lipstick-product-advertisement.png)
+<img ... 03 ... />
+<img width="1600" height="1200" alt="velvete-03-luxury-lipstick-ad-1600x1200" src="https://github.com/user-attachments/assets/b6cab069-668e-4186-aba0-cd3b7203d6ae" />
+
+![12 Velveté Cosmetics - 04 Premium Foundation Bottle Advertising Design](12-velvete-cosmetics-04-premium-foundation-bottle-advertising-design.png)
+<img ... 04 ... />
+<img width="1600" height="1200" alt="velvete-04-foundation-bottle-ad-1600x1200" src="https://github.com/user-attachments/assets/ad17decd-a66b-4355-b0da-c26c610d9ad7" />
+
+![12 Velveté Cosmetics - 05 Female Model Holding a Branded Makeup Product](12-velvete-cosmetics-05-female-model-holding-a-branded-makeup-product.png)
+<img ... 05 ... />
+<img width="1600" height="1200" alt="velvete-05-model-holding-foundation-1600x1200" src="https://github.com/user-attachments/assets/0d5d87ae-9dd8-453f-a279-d4a00b9a80a5" />
+
+![12 Velveté Cosmetics - 06 Luxury Eyeshadow Palette Packaging](12-velvete-cosmetics-06-luxury-eyeshadow-palette-packaging.png)
+<img ... 06 ... />
+<img width="1600" height="1200" alt="velvete-06-eyeshadow-palette-packaging-1600x1200" src="https://github.com/user-attachments/assets/9be7cd77-adae-4b53-b5a3-fe6335b4cb37" />
+
+![12 Velveté Cosmetics - 07 Premium Cosmetic Compact Powder Advertisement](12-velvete-cosmetics-07-premium-cosmetic-compact-powder-advertisement.png)
+<img ... 07 ... />
+<img width="1600" height="1200" alt="velvete-07-compact-powder-ad-1600x1200" src="https://github.com/user-attachments/assets/0f325465-b222-493d-a656-d1585df9e426" />
+
+![12 Velveté Cosmetics - 08 Professional Makeup Brush Collection Presentation](12-velvete-cosmetics-08-professional-makeup-brush-collection-presentation.png)
+<img ... 08 ... />
+<img width="1600" height="1200" alt="velvete-08-makeup-brush-collection-1600x1200" src="https://github.com/user-attachments/assets/8fc2f239-6cca-4da6-a9ad-d5badfca45fd" />
+
+![12 Velveté Cosmetics - 09 Luxury Black and Rose-Gold Packaging Design](12-velvete-cosmetics-09-luxury-black-and-rose-gold-packaging-design.png)
+<img ... 09 ... />
+<img width="1600" height="1200" alt="velvete-09-black-rosegold-packaging-1600x1200" src="https://github.com/user-attachments/assets/d76b7baf-5ca0-4078-ab24-88ded02c338e" />
+
+![12 Velveté Cosmetics - 10 Cosmetics Shopping Bag Branding](12-velvete-cosmetics-10-cosmetics-shopping-bag-branding.png)
+<img ... 10 ... />
+<img width="1600" height="1200" alt="velvete-10-shopping-bag-branding-1600x1200" src="https://github.com/user-attachments/assets/d6a542df-31fe-40af-b990-daa3dac820f9" />
+
+![12 Velveté Cosmetics - 11 Embossed Metallic Logo on Cosmetic Boxes](12-velvete-cosmetics-11-embossed-metallic-logo-on-cosmetic-boxes.png)
+<img ... 11 ... />
+<img width="1600" height="1200" alt="velvete-11-embossed-metallic-logo-boxes-1600x1200" src="https://github.com/user-attachments/assets/4496261d-9c01-4056-906b-8e150437bbfa" />
+
+![12 Velveté Cosmetics - 12 Premium Makeup Product Collection Advertisement](12-velvete-cosmetics-12-premium-makeup-product-collection-advertisement.png)
+<img ... 12 ... />
+<img width="1600" height="1200" alt="velvete-12-product-collection-ad-1600x1200" src="https://github.com/user-attachments/assets/15a740c4-9524-441f-918e-f84a3e1640ec" />
+
+![12 Velveté Cosmetics - 13 High-End Female Beauty Editorial Poster](12-velvete-cosmetics-13-high-end-female-beauty-editorial-poster.png)
+<img ... 13 ... />
+<img width="1600" height="1200" alt="velvete-13-female-beauty-editorial-1600x1200" src="https://github.com/user-attachments/assets/7d2b5d6f-699d-41a4-af90-25ea6e4cd77c" />
+
+![12 Velveté Cosmetics - 14 Luxury Lip Gloss Promotional Design](12-velvete-cosmetics-14-luxury-lip-gloss-promotional-design.png)
+<img ... 14 ... />
+<img width="1600" height="1200" alt="velvete-14-lip-gloss-promotional-1600x1200" src="https://github.com/user-attachments/assets/3d5b7595-7a77-4481-9e84-febcb3c4473a" />
+
+![12 Velveté Cosmetics - 15 Cosmetics Product Label and Packaging Identity](12-velvete-cosmetics-15-cosmetics-product-label-and-packaging-identity.png)
+<img ... 15 ... />
+<img width="1600" height="1200" alt="velvete-15-product-label-identity-1600x1200" src="https://github.com/user-attachments/assets/0ea61947-babd-4862-94c1-ac9ea11a16c1" />
+
+![12 Velveté Cosmetics - 16 Elegant Beauty Campaign with Multiple Makeup Products](12-velvete-cosmetics-16-elegant-beauty-campaign-with-multiple-makeup-products.png)
+<img ... 16 ... />
+<img width="1600" height="1200" alt="velvete-16-beauty-campaign-multiple-products-1600x1200" src="https://github.com/user-attachments/assets/9fc13f8a-2c86-455f-bea4-ed190d0f186c" />
+
+![12 Velveté Cosmetics - 17 Luxury Cosmetic Gift Box Design](12-velvete-cosmetics-17-luxury-cosmetic-gift-box-design.png)
+<img ... 17 ... />
+<img width="1600" height="1200" alt="velvete-17-luxury-gift-box-design-1600x1200" src="https://github.com/user-attachments/assets/3181dce3-f20a-4b1e-a41e-afdcfbf9349d" />
+
+![12 Velveté Cosmetics - 18 Premium Makeup Social Media Advertisement](12-velvete-cosmetics-18-premium-makeup-social-media-advertisement.png)
+<img ... 18 ... />
+<img width="1600" height="1200" alt="velvete-18-social-media-advertisement-1600x1200" src="https://github.com/user-attachments/assets/27324a15-7cfd-4e66-a209-d39d288bb96e" />
+
+![12 Velveté Cosmetics - 19 Professional Cosmetics Brand Stationery Presentation](12-velvete-cosmetics-19-professional-cosmetics-brand-stationery-presentation.png)
+<img ... 19 ... />
+<img width="1600" height="1200" alt="velvete-19-brand-stationery-presentation-1600x1200" src="https://github.com/user-attachments/assets/6ad51428-f3af-41a6-9702-16c9eb274311" />
+
+![12 Velveté Cosmetics - 20 Complete VELVETÉ COSMETICS Brand Identity Showcase](12-velvete-cosmetics-20-complete-velvete-cosmetics-brand-identity-showcase.png)
+<img ... 20 ... />
+<img width="1600" height="1200" alt="velvete-20-complete-brand-identity-showcase-1600x1200" src="https://github.com/user-attachments/assets/d067656d-b8ea-4563-9201-c50fac31d0d9" />
+
+
+
