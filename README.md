@@ -20,6 +20,7 @@ Brand identity, logo and visual design projects by Faisal Shahzad.
 | 12 | Velveté Cosmetics - Luxury Graphic Design Portfolio | Portfolio of 20 luxury cosmetics advertising plates (1600x1200, 4:3), covering beauty campaigns, product ads, packaging and brand identity, with a plate gallery, lightbox, individual image export and ZIP download | Google AI Studio, React, Vite, Tailwind CSS, Gemini API | [12-velvete-cosmetics-_-luxury-graphic-design-portfolio.html](12-velvete-cosmetics-_-luxury-graphic-design-portfolio.html) |
 | 13 | Élora Beauty - Brand Identity & Campaign Portfolio | Portfolio of 20 luxury haircare brand plates (1600x1200), covering brand identity and print, model campaigns, packaging, and salon spaces, with a brand system section, plate gallery, lightbox and individual image export | Google AI Studio, React, Vite, Tailwind CSS, Gemini API | [13-elora-beauty-_-brand-identity-_-campaign-portfolio.html](13-elora-beauty-_-brand-identity-_-campaign-portfolio.html) |
 | 14 | Noiré Parfum - Luxury Fragrance Design Portfolio | Portfolio of 20 luxury fragrance design plates (1600x1200, 4:3), covering brand identity, couture editorial campaigns, crystal flacons, and bespoke packaging, with a brand identity section, plate gallery, lightbox and individual image export | Google AI Studio, React, Vite, Tailwind CSS, Gemini API | [14-noire-parfum-_-luxury-fragrance-design-portfolio.html](14-noire-parfum-_-luxury-fragrance-design-portfolio.html) |
+| 15 | Botanéa Organics - Brand & Advertising Portfolio | Portfolio of 20 luxury natural beauty plates (1600x1200, 4:3), covering brand identity, packaging, and editorial campaigns, with a brand identity section, plate gallery, lightbox and individual image export | Google AI Studio, React, Vite, Tailwind CSS, Gemini API | [15-botanea-organics-_-brand-_-advertising-portfolio.html](15-botanea-organics-_-brand-_-advertising-portfolio.html) |
 
 ## Screenshots
 
@@ -695,3 +696,87 @@ ue-haute-parfumerie-brand-identity-graphic-04-botanical-distillation (1)" src="h
 ![14 Noiré Parfum - 20 Complete NOIRÉ PARFUM Brand Identity Presentation](14-noire-parfum-20-complete-noire-parfum-brand-identity-presentation.png)
 <img ... 20 ... />
 <img width="1600" height="1200" alt="20-noire-parfum-complete-brand-identity-1600x1200" src="https://github.com/user-attachments/assets/9f411a9e-884d-456f-b589-ae117ed48a03" />
+
+### 15 Screenshots
+
+![15 Botanéa Organics - 01 Botanéa Organics Luxury Logo Presentation](15-botanea-organics-01-botanea-organics-luxury-logo-presentation.png)
+<img ... 01 ... />
+<img width="1600" height="1200" alt="botanea-organics-01-botan-a-organics-luxury-logo-presentation-1600x1200" src="https://github.com/user-attachments/assets/265b3477-d262-488d-b94d-508559122f8c" />
+
+![15 Botanéa Organics - 02 Female Model Organic Beauty Campaign](15-botanea-organics-02-female-model-organic-beauty-campaign.png)
+<img ... 02 ... />
+<img width="1600" height="1200" alt="botanea-organics-02-female-model-organic-beauty-campaign-1600x1200" src="https://github.com/user-attachments/assets/63dc299f-86e6-4467-a6ca-bd035d9f4253" />
+
+![15 Botanéa Organics - 03 Natural Botanical Face Serum Advertisement](15-botanea-organics-03-natural-botanical-face-serum-advertisement.png)
+<img ... 03 ... />
+<img width="1600" height="1200" alt="botanea-organics-03-natural-botanical-face-serum-advertisement-1600x1200" src="https://github.com/user-attachments/assets/fc353ddf-28da-4544-be08-2b33da615627" />
+
+![15 Botanéa Organics - 04 Premium Green Glass Skincare Bottle Packaging](15-botanea-organics-04-premium-green-glass-skincare-bottle-packaging.png)
+<img ... 04 ... />
+<img width="1600" height="1200" alt="botanea-organics-04-premium-green-glass-skincare-bottle-packaging-1600x1200" src="https://github.com/user-attachments/assets/c2551f01-2a8c-475a-ae16-6f990c145a84" />
+
+![15 Botanéa Organics - 05 Female Model Holding Organic Skincare Product](15-botanea-organics-05-female-model-holding-organic-skincare-product.png)
+<img ... 05 ... />
+<img width="1600" height="1200" alt="botanea-organics-05-female-model-holding-organic-skincare-product-1600x1200" src="https://github.com/user-attachments/assets/2a4c6ccb-1129-47fa-8773-041ae354e0f0" />
+
+![15 Botanéa Organics - 06 Natural Facial Cream Jar Advertising Design](15-botanea-organics-06-natural-facial-cream-jar-advertising-design.png)
+<img ... 06 ... />
+<img width="1600" height="1200" alt="botanea-organics-06-natural-facial-cream-jar-advertising-design-1600x1200" src="https://github.com/user-attachments/assets/dde31076-21e7-431a-a74e-52cbb76de6e8" />
+
+![15 Botanéa Organics - 07 Organic Moisturizer Product Promotion](15-botanea-organics-07-organic-moisturizer-product-promotion.png)
+<img ... 07 ... />
+<img width="1600" height="1200" alt="botanea-organics-07-organic-moisturizer-product-promotion-1600x1200" src="https://github.com/user-attachments/assets/6aa8e8e9-9e77-4e58-94a5-abaca12730bb" />
+
+![15 Botanéa Organics - 08 Botanical Skincare Collection Advertisement](15-botanea-organics-08-botanical-skincare-collection-advertisement.png)
+<img ... 08 ... />
+<img width="1600" height="1200" alt="botanea-organics-08-botanical-skincare-collection-advertisement-1600x1200" src="https://github.com/user-attachments/assets/64212dea-2e53-4f84-bb3e-076aabdcf771" />
+
+![15 Botanéa Organics - 09 Premium Natural Product Label Design](15-botanea-organics-09-premium-natural-product-label-design.png)
+<img ... 09 ... />
+<img width="1600" height="1200" alt="botanea-organics-09-premium-natural-product-label-design-1600x1200" src="https://github.com/user-attachments/assets/3e310134-b46b-436d-aa39-58309e03d5b0" />
+
+![15 Botanéa Organics - 10 Eco-Inspired Luxury Packaging Box Presentation](15-botanea-organics-10-eco-inspired-luxury-packaging-box-presentation.png)
+<img ... 10 ... />
+<img width="1600" height="1200" alt="botanea-organics-10-eco-inspired-luxury-packaging-box-presentation-1600x1200" src="https://github.com/user-attachments/assets/36845c97-dbc3-4376-b4d4-6900a8f086c9" />
+
+![15 Botanéa Organics - 11 Branded Natural Beauty Shopping Bag](15-botanea-organics-11-branded-natural-beauty-shopping-bag.png)
+<img ... 11 ... />
+<img width="1600" height="1200" alt="botanea-organics-11-branded-natural-beauty-shopping-bag-1600x1200" src="https://github.com/user-attachments/assets/29689b8a-12b0-4a76-a21b-41a8a7911361" />
+
+![15 Botanéa Organics - 12 Organic Skincare Gift Set Advertisement](15-botanea-organics-12-organic-skincare-gift-set-advertisement.png)
+<img ... 12 ... />
+<img width="1600" height="1200" alt="botanea-organics-12-organic-skincare-gift-set-advertisement-1600x1200" src="https://github.com/user-attachments/assets/56158f78-3537-4b31-bb90-b6b8bbeaa779" />
+
+![15 Botanéa Organics - 13 Female Model Applying Natural Facial Cream](15-botanea-organics-13-female-model-applying-natural-facial-cream.png)
+<img ... 13 ... />
+<img width="1600" height="1200" alt="botanea-organics-13-female-model-applying-natural-facial-cream-1600x1200" src="https://github.com/user-attachments/assets/eaa18026-29cb-4bff-94eb-7442b2e30b29" />
+
+![15 Botanéa Organics - 14 Botanical Serum with Leaves and Natural Ingredients](15-botanea-organics-14-botanical-serum-with-leaves-and-natural-ingredients.png)
+<img ... 14 ... />
+<img width="1600" height="1200" alt="botanea-organics-14-botanical-serum-with-leaves-natural-ingredients-1600x1200" src="https://github.com/user-attachments/assets/12c5fbff-9cfd-4907-8367-a44015221a76" />
+
+![15 Botanéa Organics - 15 Luxury Organic Beauty Social Media Advertisement](15-botanea-organics-15-luxury-organic-beauty-social-media-advertisement.png)
+<img ... 15 ... />
+<img width="1600" height="1200" alt="botanea-organics-15-luxury-organic-beauty-social-media-advertisement-1600x1200" src="https://github.com/user-attachments/assets/6d456676-3152-49ca-bb89-4e9c2cafb9c7" />
+
+![15 Botanéa Organics - 16 Premium Skincare Product Photography](15-botanea-organics-16-premium-skincare-product-photography.png)
+<img ... 16 ... />
+<img width="1600" height="1200" alt="botanea-organics-16-premium-skincare-product-photography-1600x1200" src="https://github.com/user-attachments/assets/a364907c-14cc-48ea-ae76-38c8d6866650" />
+
+![15 Botanéa Organics - 17 Botanical Beauty Brand Stationery Presentation](15-botanea-organics-17-botanical-beauty-brand-stationery-presentation.png)
+<img ... 17 ... />
+<img width="1600" height="1200" alt="botanea-organics-17-botanical-beauty-brand-stationery-presentation-1600x1200" src="https://github.com/user-attachments/assets/e57cd320-0629-425b-aa1b-d3da3042cf2d" />
+
+![15 Botanéa Organics - 18 Elegant Organic Skincare Packaging Collection](15-botanea-organics-18-elegant-organic-skincare-packaging-collection.png)
+<img ... 18 ... />
+<img width="1600" height="1200" alt="botanea-organics-18-elegant-organic-skincare-packaging-collection-1600x1200" src="https://github.com/user-attachments/assets/7a167f03-cf2e-42d4-9037-6838923e5fa3" />
+
+![15 Botanéa Organics - 19 Female Beauty Model with Complete Skincare Line](15-botanea-organics-19-female-beauty-model-with-complete-skincare-line.png)
+<img ... 19 ... />
+<img width="1600" height="1200" alt="botanea-organics-19-female-beauty-model-with-complete-skincare-line-1600x1200" src="https://github.com/user-attachments/assets/fcdc5149-085a-4149-b3b6-0965df67ff95" />
+
+![15 Botanéa Organics - 20 Complete Botanéa Organics Brand Identity Presentation](15-botanea-organics-20-complete-botanea-organics-brand-identity-presentation.png)
+<img ... 20 ... />
+<img width="1600" height="1200" alt="botanea-organics-20-complete-botan-a-organics-brand-identity-presentation-1600x1200" src="https://github.com/user-attachments/assets/28f9e5c8-79c5-45cd-ba09-1e8f51b9cbe7" />
+
+
