@@ -18,7 +18,7 @@ Brand identity, logo and visual design projects by Faisal Shahzad.
 | 10 | Haute Archive - Luxury Fashion Advertising Campaigns | Portfolio of 20 ultra-premium USA and UK luxury fashion advertising campaigns, with editorial art direction, lookbook, campaign cards with lightbox, and individual PNG export | Google AI Studio, React, Vite, Tailwind CSS, Gemini API | [10-haute-archive-_-luxury-fashion-advertising-campaigns.html](10-haute-archive-_-luxury-fashion-advertising-campaigns.html) |
 | 11 | Aurelle Skin - Luxury Skincare Design Portfolio | Portfolio of 20 premium luxury skincare advertising plates (1600x1200, 4:3), covering brand identity, beauty campaigns, packaging and print, and product posters, with a plate gallery, lightbox and individual image export | Google AI Studio, React, Vite, Tailwind CSS, Gemini API | [11-aurelle-skin-luxury-skincare-design-portfolio.html](11-aurelle-skin-luxury-skincare-design-portfolio.html) |
 | 12 | Velveté Cosmetics - Luxury Graphic Design Portfolio | Portfolio of 20 luxury cosmetics advertising plates (1600x1200, 4:3), covering beauty campaigns, product ads, packaging and brand identity, with a plate gallery, lightbox, individual image export and ZIP download | Google AI Studio, React, Vite, Tailwind CSS, Gemini API | [12-velvete-cosmetics-_-luxury-graphic-design-portfolio.html](12-velvete-cosmetics-_-luxury-graphic-design-portfolio.html) |
-
+| 13 | Élora Beauty - Brand Identity & Campaign Portfolio | Portfolio of 20 luxury haircare brand plates (1600x1200), covering brand identity and print, model campaigns, packaging, and salon spaces, with a brand system section, plate gallery, lightbox and individual image export | Google AI Studio, React, Vite, Tailwind CSS, Gemini API | [13-elora-beauty-_-brand-identity-_-campaign-portfolio.html](13-elora-beauty-_-brand-identity-_-campaign-portfolio.html) |
 
 ## Screenshots
 
@@ -531,5 +531,85 @@ ue-haute-parfumerie-brand-identity-graphic-04-botanical-distillation (1)" src="h
 <img ... 20 ... />
 <img width="1600" height="1200" alt="velvete-20-complete-brand-identity-showcase-1600x1200" src="https://github.com/user-attachments/assets/d067656d-b8ea-4563-9201-c50fac31d0d9" />
 
+### 13 Screenshots
 
+![13 Élora Beauty - 01 Luxury Brand Logo Presentation](13-elora-beauty-01-luxury-brand-logo-presentation.png)
+<img ... 01 ... />
+<img width="1600" height="1200" alt="elora-beauty-01-luxury-brand-logo-presentation-1600x1200" src="https://github.com/user-attachments/assets/30439da7-0fea-4028-895f-cffb4160c252" />
+
+![13 Élora Beauty - 02 Glossy Hair Editorial Campaign](13-elora-beauty-02-glossy-hair-editorial-campaign.png)
+<img ... 02 ... />
+<img width="1600" height="1200" alt="elora-beauty-02-glossy-hair-editorial-campaign-1600x1200" src="https://github.com/user-attachments/assets/1a6cd9fd-74aa-436f-9407-e5189d3f29a5" />
+
+![13 Élora Beauty - 03 Nourishing Shampoo Advertising Poster](13-elora-beauty-03-nourishing-shampoo-advertising-poster.png)
+<img ... 03 ... />
+<img width="1600" height="1200" alt="elora-beauty-03-nourishing-shampoo-advertising-poster-1600x1200" src="https://github.com/user-attachments/assets/e384f405-1a27-4e21-a592-a9d5e0b1b688" />
+
+![13 Élora Beauty - 04 Silk Conditioner Product Advertisement](13-elora-beauty-04-silk-conditioner-product-advertisement.png)
+<img ... 04 ... />
+<img width="1600" height="1200" alt="elora-beauty-04-silk-conditioner-product-advertisement-1600x1200" src="https://github.com/user-attachments/assets/6b2e5874-09b0-4527-8cf6-b4e7f42e64d1" />
+
+![13 Élora Beauty - 05 Amber Botanical Hair Oil Photography](13-elora-beauty-05-amber-botanical-hair-oil-photography.png)
+<img ... 05 ... />
+<img width="1600" height="1200" alt="elora-beauty-05-amber-botanical-hair-oil-photography-1600x1200" src="https://github.com/user-attachments/assets/ea809f37-ff12-4ea8-9495-9cdbb58950d4" />
+
+![13 Élora Beauty - 06 Model Holding Signature Hair Serum](13-elora-beauty-06-model-holding-signature-hair-serum.png)
+<img ... 06 ... />
+<img width="1600" height="1200" alt="elora-beauty-06-model-holding-signature-hair-serum-1600x1200" src="https://github.com/user-attachments/assets/06c4f7d8-d1fc-469c-a298-4ae3c9a3ec51" />
+
+![13 Élora Beauty - 07 Nutri-Glow Hair Mask Packaging](13-elora-beauty-07-nutri-glow-hair-mask-packaging.png)
+<img ... 07 ... />
+<img width="1600" height="1200" alt="elora-beauty-07-nutri-glow-hair-mask-packaging-1600x1200" src="https://github.com/user-attachments/assets/2f1c2bb9-2aba-475c-8884-4b9981d8b530" />
+
+![13 Élora Beauty - 08 Signature Haircare Collection Lineup](13-elora-beauty-08-signature-haircare-collection-lineup.png)
+<img ... 08 ... />
+<img width="1600" height="1200" alt="elora-beauty-08-signature-haircare-collection-lineup-1600x1200" src="https://github.com/user-attachments/assets/6a55c5a2-03ff-4a1b-9e74-95577ea74f02" />
+
+![13 Élora Beauty - 09 Embossed and Foil-Stamped Packaging](13-elora-beauty-09-embossed-and-foil-stamped-packaging.png)
+<img ... 09 ... />
+<img width="1600" height="1200" alt="elora-beauty-09-embossed-foil-stamped-packaging-1600x1200" src="https://github.com/user-attachments/assets/8b0bf5bf-0cd8-4c2d-8c2e-c274f7629ef1" />
+
+![13 Élora Beauty - 10 Shampoo and Conditioner Label System](13-elora-beauty-10-shampoo-and-conditioner-label-system.png)
+<img ... 10 ... />
+<img width="1600" height="1200" alt="elora-beauty-10-shampoo-conditioner-label-system-1600x1200" src="https://github.com/user-attachments/assets/f2e9b936-0241-4bb3-935c-ae81d4bb4a27" />
+
+![13 Élora Beauty - 11 Boutique Shopping Bag Branding](13-elora-beauty-11-boutique-shopping-bag-branding.png)
+<img ... 11 ... />
+<img width="1600" height="1200" alt="elora-beauty-11-boutique-shopping-bag-branding-1600x1200" src="https://github.com/user-attachments/assets/e3f057ea-1cec-4d42-a207-8b4f97c46b63" />
+
+![13 Élora Beauty - 12 Flagship Beauty Salon Exterior](13-elora-beauty-12-flagship-beauty-salon-exterior.png)
+<img ... 12 ... />
+<img width="1600" height="1200" alt="elora-beauty-12-flagship-beauty-salon-exterior-1600x1200" src="https://github.com/user-attachments/assets/36d96535-503f-43aa-b541-9bf8cbc07370" />
+
+![13 Élora Beauty - 13 Salon Reception Interior Branding](13-elora-beauty-13-salon-reception-interior-branding.png)
+<img ... 13 ... />
+<img width="1600" height="1200" alt="elora-beauty-13-salon-reception-interior-branding-1600x1200" src="https://github.com/user-attachments/assets/739aebf6-47b9-4b9b-b790-a528e776a221" />
+
+![13 Élora Beauty - 14 Editorial Hair Model Poster](13-elora-beauty-14-editorial-hair-model-poster.png)
+<img ... 14 ... />
+<img width="1600" height="1200" alt="elora-beauty-14-editorial-hair-model-poster-1600x1200" src="https://github.com/user-attachments/assets/84edd466-c8f8-468f-baad-3fc730f1a75d" />
+
+![13 Élora Beauty - 15 Radiance Collection Gift Box](13-elora-beauty-15-radiance-collection-gift-box.png)
+<img ... 15 ... />
+<img width="1600" height="1200" alt="elora-beauty-15-radiance-collection-gift-box-1600x1200" src="https://github.com/user-attachments/assets/b8a1385e-6e07-4911-9b68-a1027dfcbdca" />
+
+![13 Élora Beauty - 16 Botanical Hair Treatment Ritual](13-elora-beauty-16-botanical-hair-treatment-ritual.png)
+<img ... 16 ... />
+<img width="1600" height="1200" alt="elora-beauty-16-botanical-hair-treatment-ritual-1600x1200" src="https://github.com/user-attachments/assets/5c197639-f9a7-49ae-9bcd-43fa0c7a824c" />
+
+![13 Élora Beauty - 17 Botanical Elixir Social Campaign](13-elora-beauty-17-botanical-elixir-social-campaign.png)
+<img ... 17 ... />
+<img width="1600" height="1200" alt="elora-beauty-17-botanical-elixir-social-campaign-1600x1200" src="https://github.com/user-attachments/assets/1e36c55e-95cb-4c17-b35d-cf2b9a349de1" />
+
+![13 Élora Beauty - 18 Packaging and Stationery Suite](13-elora-beauty-18-packaging-and-stationery-suite.png)
+<img ... 18 ... />
+<img width="1600" height="1200" alt="elora-beauty-18-packaging-stationery-suite-1600x1200" src="https://github.com/user-attachments/assets/7b9a1931-657e-48df-a3fa-8d7633b1c8be" />
+
+![13 Élora Beauty - 19 Vitality Glow Hair Serum Campaign](13-elora-beauty-19-vitality-glow-hair-serum-campaign.png)
+<img ... 19 ... />
+<img width="1600" height="1200" alt="elora-beauty-19-vitality-glow-hair-serum-campaign-1600x1200" src="https://github.com/user-attachments/assets/a386ebca-7af3-4ee4-b12c-4cc1f1e8e265" />
+
+![13 Élora Beauty - 20 Complete Brand Identity Monograph](13-elora-beauty-20-complete-brand-identity-monograph.png)
+<img ... 20 ... />
+<img width="1600" height="1200" alt="elora-beauty-20-complete-brand-identity-monograph-1600x1200" src="https://github.com/user-attachments/assets/3633582c-2b37-423d-9bfb-a0ea93e295d2" />
 
