@@ -19,6 +19,7 @@ Brand identity, logo and visual design projects by Faisal Shahzad.
 | 11 | Aurelle Skin - Luxury Skincare Design Portfolio | Portfolio of 20 premium luxury skincare advertising plates (1600x1200, 4:3), covering brand identity, beauty campaigns, packaging and print, and product posters, with a plate gallery, lightbox and individual image export | Google AI Studio, React, Vite, Tailwind CSS, Gemini API | [11-aurelle-skin-luxury-skincare-design-portfolio.html](11-aurelle-skin-luxury-skincare-design-portfolio.html) |
 | 12 | Velveté Cosmetics - Luxury Graphic Design Portfolio | Portfolio of 20 luxury cosmetics advertising plates (1600x1200, 4:3), covering beauty campaigns, product ads, packaging and brand identity, with a plate gallery, lightbox, individual image export and ZIP download | Google AI Studio, React, Vite, Tailwind CSS, Gemini API | [12-velvete-cosmetics-_-luxury-graphic-design-portfolio.html](12-velvete-cosmetics-_-luxury-graphic-design-portfolio.html) |
 | 13 | Élora Beauty - Brand Identity & Campaign Portfolio | Portfolio of 20 luxury haircare brand plates (1600x1200), covering brand identity and print, model campaigns, packaging, and salon spaces, with a brand system section, plate gallery, lightbox and individual image export | Google AI Studio, React, Vite, Tailwind CSS, Gemini API | [13-elora-beauty-_-brand-identity-_-campaign-portfolio.html](13-elora-beauty-_-brand-identity-_-campaign-portfolio.html) |
+| 14 | Noiré Parfum - Luxury Fragrance Design Portfolio | Portfolio of 20 luxury fragrance design plates (1600x1200, 4:3), covering brand identity, couture editorial campaigns, crystal flacons, and bespoke packaging, with a brand identity section, plate gallery, lightbox and individual image export | Google AI Studio, React, Vite, Tailwind CSS, Gemini API | [14-noire-parfum-_-luxury-fragrance-design-portfolio.html](14-noire-parfum-_-luxury-fragrance-design-portfolio.html) |
 
 ## Screenshots
 
@@ -613,3 +614,84 @@ ue-haute-parfumerie-brand-identity-graphic-04-botanical-distillation (1)" src="h
 <img ... 20 ... />
 <img width="1600" height="1200" alt="elora-beauty-20-complete-brand-identity-monograph-1600x1200" src="https://github.com/user-attachments/assets/3633582c-2b37-423d-9bfb-a0ea93e295d2" />
 
+### 14 Screenshots
+
+![14 Noiré Parfum - 01 NOIRÉ PARFUM Luxury Logo Design](14-noire-parfum-01-noire-parfum-luxury-logo-design.png)
+<img ... 01 ... />
+<img width="1600" height="1200" alt="01-noire-parfum-logo-design-1600x1200" src="https://github.com/user-attachments/assets/95cda5a2-6a29-488c-9917-124eac4abd7e" />
+
+![14 Noiré Parfum - 02 Female Model in a Premium Perfume Campaign](14-noire-parfum-02-female-model-in-a-premium-perfume-campaign.png)
+<img ... 02 ... />
+<img width="1600" height="1200" alt="02-noire-parfum-female-model-campaign-1600x1200" src="https://github.com/user-attachments/assets/f9416be0-7512-463b-80cd-dced68d37e9e" />
+
+![14 Noiré Parfum - 03 Luxury Glass Perfume Bottle Advertising Poster](14-noire-parfum-03-luxury-glass-perfume-bottle-advertising-poster.png)
+<img ... 03 ... />
+<img width="1600" height="1200" alt="03-noire-parfum-glass-bottle-poster-1600x1200" src="https://github.com/user-attachments/assets/07a6b646-975d-4995-a3db-70c6117b1482" />
+
+![14 Noiré Parfum - 04 Black and Gold Perfume Packaging Design](14-noire-parfum-04-black-and-gold-perfume-packaging-design.png)
+<img ... 04 ... />
+<img width="1600" height="1200" alt="04-noire-parfum-black-gold-packaging-1600x1200" src="https://github.com/user-attachments/assets/c8f1fb14-b833-417a-b188-3da780c47bcb" />
+
+![14 Noiré Parfum - 05 Female Model Holding an Elegant Fragrance Bottle](14-noire-parfum-05-female-model-holding-an-elegant-fragrance-bottle.png)
+<img ... 05 ... />
+<img width="1600" height="1200" alt="05-noire-parfum-model-holding-bottle-1600x1200" src="https://github.com/user-attachments/assets/a312a1b6-c373-4d4e-aa34-5b3c83517948" />
+
+![14 Noiré Parfum - 06 Close-Up Perfume Bottle Product Advertisement](14-noire-parfum-06-close-up-perfume-bottle-product-advertisement.png)
+<img ... 06 ... />
+<img width="1600" height="1200" alt="06-noire-parfum-closeup-product-ad-1600x1200" src="https://github.com/user-attachments/assets/a8a2fedf-2de3-4587-9f14-aa36c90eaefc" />
+
+![14 Noiré Parfum - 07 Premium Embossed Perfume Box Design](14-noire-parfum-07-premium-embossed-perfume-box-design.png)
+<img ... 07 ... />
+<img width="1600" height="1200" alt="07-noire-parfum-embossed-box-1600x1200" src="https://github.com/user-attachments/assets/64964d2b-be4d-4136-87c8-d3750fc72468" />
+
+![14 Noiré Parfum - 08 Luxury Fragrance Collection Promotional Graphic](14-noire-parfum-08-luxury-fragrance-collection-promotional-graphic.png)
+<img ... 08 ... />
+<img width="1600" height="1200" alt="08-noire-parfum-collection-graphic-1600x1200" src="https://github.com/user-attachments/assets/97faabbf-b854-4c9e-a41a-62cdf4483e85" />
+
+![14 Noiré Parfum - 09 Perfume Shopping Bag Branding](14-noire-parfum-09-perfume-shopping-bag-branding.png)
+<img ... 09 ... />
+<img width="1600" height="1200" alt="09-noire-parfum-shopping-bag-1600x1200" src="https://github.com/user-attachments/assets/bbe44fcc-a2e0-4629-ba43-376a249b4d51" />
+
+![14 Noiré Parfum - 10 Premium Perfume Label Design](14-noire-parfum-10-premium-perfume-label-design.png)
+<img ... 10 ... />
+<img width="1600" height="1200" alt="10-noire-parfum-label-design-1600x1200" src="https://github.com/user-attachments/assets/d73f1a17-30f2-4958-9cd4-0a83f6986a3e" />
+
+![14 Noiré Parfum - 11 Luxury Fragrance Gift Box Presentation](14-noire-parfum-11-luxury-fragrance-gift-box-presentation.png)
+<img ... 11 ... />
+<img width="1600" height="1200" alt="11-noire-parfum-gift-box-1600x1200" src="https://github.com/user-attachments/assets/86e8bc68-0dad-43d4-bc5a-1810bbbdd336" />
+
+![14 Noiré Parfum - 12 High-End Perfume Boutique Branding](14-noire-parfum-12-high-end-perfume-boutique-branding.png)
+<img ... 12 ... />
+<img width="1600" height="1200" alt="12-noire-parfum-boutique-branding-1600x1200" src="https://github.com/user-attachments/assets/c13c02a0-495e-4bee-ac25-b279926c0529" />
+
+![14 Noiré Parfum - 13 Female Editorial Fragrance Campaign](14-noire-parfum-13-female-editorial-fragrance-campaign.png)
+<img ... 13 ... />
+<img width="1600" height="1200" alt="13-noire-parfum-editorial-campaign-1600x1200" src="https://github.com/user-attachments/assets/10befd1b-f7d2-4294-8933-ea9554f30906" />
+
+![14 Noiré Parfum - 14 Amber Glass Perfume Bottle Advertisement](14-noire-parfum-14-amber-glass-perfume-bottle-advertisement.png)
+<img ... 14 ... />
+<img width="1600" height="1200" alt="14-noire-parfum-amber-glass-bottle-1600x1200" src="https://github.com/user-attachments/assets/7d1620cf-68da-426b-b255-7cdf75ffa0c9" />
+
+![14 Noiré Parfum - 15 Premium Product Photography with Dramatic Reflections](14-noire-parfum-15-premium-product-photography-with-dramatic-reflections.png)
+<img ... 15 ... />
+<img width="1600" height="1200" alt="15-noire-parfum-dramatic-reflections-1600x1200" src="https://github.com/user-attachments/assets/6012ca50-c812-4951-ad7f-dbc88bcf928b" />
+
+![14 Noiré Parfum - 16 Luxury Perfume Social Media Advertising Design](14-noire-parfum-16-luxury-perfume-social-media-advertising-design.png)
+<img ... 16 ... />
+<img width="1600" height="1200" alt="16-noire-parfum-social-media-ad-1600x1200" src="https://github.com/user-attachments/assets/726587a7-e6e2-4fed-9247-b8c5887453f4" />
+
+![14 Noiré Parfum - 17 Fragrance Packaging and Stationery Presentation](14-noire-parfum-17-fragrance-packaging-and-stationery-presentation.png)
+<img ... 17 ... />
+<img width="1600" height="1200" alt="17-noire-parfum-stationery-suite-1600x1200" src="https://github.com/user-attachments/assets/850cefdf-c842-44f4-95d4-c6b702188ad7" />
+
+![14 Noiré Parfum - 18 Elegant Perfume Bottle with Gold Decorative Details](14-noire-parfum-18-elegant-perfume-bottle-with-gold-decorative-details.png)
+<img ... 18 ... />
+<img width="1600" height="1200" alt="18-noire-parfum-gold-detail-bottle-1600x1200" src="https://github.com/user-attachments/assets/a0b7008d-8114-4b09-8dd1-e0368d27c26e" />
+
+![14 Noiré Parfum - 19 Exclusive Luxury Perfume Gift Collection](14-noire-parfum-19-exclusive-luxury-perfume-gift-collection.png)
+<img ... 19 ... />
+<img width="1600" height="1200" alt="19-noire-parfum-exclusive-gift-collection-1600x1200" src="https://github.com/user-attachments/assets/83bae530-14aa-4176-9d4d-967deac03205" />
+
+![14 Noiré Parfum - 20 Complete NOIRÉ PARFUM Brand Identity Presentation](14-noire-parfum-20-complete-noire-parfum-brand-identity-presentation.png)
+<img ... 20 ... />
+<img width="1600" height="1200" alt="20-noire-parfum-complete-brand-identity-1600x1200" src="https://github.com/user-attachments/assets/9f411a9e-884d-456f-b589-ae117ed48a03" />
